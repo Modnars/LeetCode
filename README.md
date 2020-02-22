@@ -17,6 +17,7 @@
 | A0007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer) | [cpp](./cpp/A0007/main.cpp) | 简单 | Tencent50 | 20/02/21 |
 | A0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [cpp](./cpp/A0008/main.cpp) | 中等 | Tencent50, TODO | |
 | A0009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [cpp](./cpp/A0009/main.cpp) | 简单 | Tencent50 | 20/02/21 |
+| A0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [cpp](./cpp/A0014/main.cpp) | 简单 | Tencent50 | 20/02/23 |
 | A0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [cpp](./cpp/A0020/main.cpp) | 简单 | Tencent50 | 20/02/21 |
 | A0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [cpp](./cpp/A0021/main.cpp) | 简单 | Tencent50 | 20/02/21 |
 | A0023 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](./cpp/A0023/main.cpp) | 困难 | Tencent50 | 20/02/21 |
