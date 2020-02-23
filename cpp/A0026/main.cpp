@@ -9,6 +9,24 @@
 
 /* ************************* */
 
+/**
+ * 使用iterator来去除nums中的重复元素
+ *     这里需要注意的是vector的erase(iter)方法，会返回删除元素的下个元素的迭代器。
+ */
+// Time: 312ms  Memory: 15.4MB
+class Solution {
+public:
+    int removeDuplicates(std::vector<int> &nums) {
+        for (auto iter = nums.begin(); iter != nums.end(); ) {
+            auto del_iter = iter + 1;
+            while (del_iter != nums.end() && *del_iter == *iter)
+                del_iter = nums.erase(del_iter);
+            iter = del_iter;
+        }
+        return nums.size();
+    }
+};
+
 /* ************************* */
 
 /**
@@ -34,32 +52,12 @@ namespace AnsOne {
 }
 
 /**
- * 使用iterator来去除nums中的重复元素
- *     这里需要注意的是vector的erase(iter)方法，会返回删除元素的下个元素的迭代器。
- */
-namespace AnsTwo {
-    // Time: 312ms  Memory: 15.4MB
-    class Solution {
-    public:
-        int removeDuplicates(std::vector<int> &nums) {
-            for (auto iter = nums.begin(); iter != nums.end(); ) {
-                auto del_iter = iter + 1;
-                while (del_iter != nums.end() && *del_iter == *iter)
-                    del_iter = nums.erase(del_iter);
-                iter = del_iter;
-            }
-            return nums.size();
-        }
-    };
-}    
-
-/**
  * 使用vector的assign高效拷贝来实现
  *     记录nums长度len。遍历nums，选择未重复的元素，放置到nums尾，注意不需要再遍历后
  * 加到尾端的元素。遍历结束后，将后加入的元素使用assign拷贝到nums上并返回此时的nums
  * 的size即可。
  */
-namespace AnsThree {
+namespace AnsTwo {
     // Time: 16ms  Memory: 15.7MB
     class Solution {
     public:
@@ -84,7 +82,7 @@ namespace AnsThree {
  *     放置指针i、j=i+1，用j遍历nums，若nums[i] != nums[j]，则修改nums[i+1]的值为
  * nums[j]。用j遍历nums结束后，返回最后修改过的位置下标加一即可。
  */
-namespace AnsFour {
+namespace AnsThree {
     // Time: 8ms  Memory: 15.3MB
     class Solution {
     public:
@@ -102,7 +100,7 @@ namespace AnsFour {
 }
 
 int main(int argc, const char *argv[]) {
-    using Solution = AnsFour::Solution;
+    using Solution = AnsThree::Solution;
     std::vector<int> nums = {1, 1, 2};
     std::cout << (new Solution())->removeDuplicates(nums) << std::endl;
     // Ans: 2
