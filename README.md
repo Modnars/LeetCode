@@ -27,6 +27,7 @@
 | A0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./cpp/A0026/main.cpp) | 简单 | Tencent50 | 20/02/22 |
 | A0070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [cpp](./cpp/A0070/main.cpp) | 简单 | Tencent50 | 20/02/22 |
 | A0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [cpp](./cpp/A0088/main.cpp) | 简单 | Tencent50 | 20/02/22 |
+| A0089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [cpp](./cpp/A0089/main.cpp) | 中等 | Tencent50 | 20/02/24 | 格雷编码 |
 | A0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [cpp](./cpp/A0104/main.cpp) | 简单 | Tencent50 | 20/02/23 |
 | A0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [cpp](./cpp/A0111/main.cpp) | 简单 | | 20/02/23 |
 | A0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [cpp](./cpp/A0167/main.cpp) | 简单 | | 20/02/20 |
