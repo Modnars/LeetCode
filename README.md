@@ -30,6 +30,8 @@
 | A0089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [cpp](./cpp/A0089/main.cpp) | 中等 | 🤔, 🐧 | 20/02/24 | 格雷编码 |
 | A0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [cpp](./cpp/A0104/main.cpp) | 简单 | 🐧, 🔥 | 20/02/23 |
 | A0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [cpp](./cpp/A0111/main.cpp) | 简单 | | 20/02/23 |
+| A0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [cpp](./cpp/A0136/main.cpp) | 简单 | 🐧 | 20/02/25 | 位异或运算 |
+| A0137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) | [cpp](./cpp/A0137/main.cpp) | 中等 | | 20/02/25 | 位运算 |
 | A0141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [cpp](./cpp/A0141/main.cpp) | 简单 | 🐧 | 20/02/25 | 快慢指针 |
 | A0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [cpp](./cpp/A0155/main.cpp) | 简单 | 🐧 | 20/02/25 | 辅助栈 |
 | A0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [cpp](./cpp/A0160/main.cpp) | 简单 | 🐧 | 20/02/25 | 双指针求双链表公共结点 |
@@ -40,6 +42,7 @@
 | A0229 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [cpp](./cpp/A0229/main.cpp) | 中等 | 🤔 | 20/02/23 | Boyer-Moore投票法 |
 | A0231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/solution/2de-mi-by-leetcode/) | [cpp](./cpp/A0231/main.cpp) | 简单 | 🤔, 🐧 | 20/02/23 | 位运算 |
 | A0234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [cpp](./cpp/A0234/main.cpp) | 简单 | 🤔, 🔥 | 20/02/21 |
+| A0260 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [cpp](./cpp/A0260/main.cpp) | 中等 | | 20/02/25 | 位运算 |
 | A0292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) | [cpp](./cpp/A0292/main.cpp) | 简单 | | 20/02/23 |
 | A0344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [cpp](./cpp/A0344/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0540 | [删除链表中的结点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [cpp](./cpp/A0540/main.cpp) | 简单 | ⭐️, 🐧 | 20/02/23 |
