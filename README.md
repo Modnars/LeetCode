@@ -30,6 +30,7 @@
 | A0089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [cpp](./cpp/A0089/main.cpp) | 中等 | 🤔, 🐧 | 20/02/24 | 格雷编码 |
 | A0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [cpp](./cpp/A0104/main.cpp) | 简单 | 🐧, 🔥 | 20/02/23 |
 | A0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [cpp](./cpp/A0111/main.cpp) | 简单 | | 20/02/23 |
+| A0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [cpp](./cpp/A0160/main.cpp) | 简单 | 🐧 | 20/02/25 | 双指针求双链表公共结点 |
 | A0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [cpp](./cpp/A0167/main.cpp) | 简单 | | 20/02/20 |
 | A0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [cpp](./cpp/A0169/main.cpp) | 简单 | 🤔, 🐧 | 20/02/25 | Boyer-Moore投票法 |
 | A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | 🐧 | 20/02/25 | |
