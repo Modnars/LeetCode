@@ -1,12 +1,9 @@
 // URL    : https://leetcode-cn.com/problems/longest-substring-without-repeating-characters
 // Author : Modnar
 // Date   : 2020/02/20
-// Thanks : Hao Chen
+// Thanks : Hao Chen(@github.com) LeetCode(@leetcode.cn)
 
-#include <map>
-#include <string>
-#include <vector>
-#include <iostream>
+#include <bits/stdc++.h>
 
 /* ************************* */
 
@@ -24,26 +21,11 @@ public:
         for (int i = 0; i != s.size(); ++i) {
             if (pos[s[i]] != -1 && pos[s[i]] > lastRepeatPos)
                 lastRepeatPos = pos[s[i]];
-            // ans = std::max(ans, i-lastRepeatPos);
             ans = (ans > i-lastRepeatPos) ? ans : i-lastRepeatPos;
             pos[s[i]] = i;
         }
         return ans;
     }
-//    int lengthOfLongestSubstring(const std::string &s) {
-//        std::vector<int> pos(MAX_SIZE, -1);
-//        int ans = 0;
-//        for (int i = 0; i != s.size(); ++i) {
-//            if (pos[s[i]] == -1) {
-//                ++ans;
-//                pos[s[i]] = i;
-//            } else {
-//                ans = (i - pos[s[i]]) > ans ? (i - pos[s[i]]) : ans;
-//                pos[s[i]] = i;
-//            }
-//        }
-//        return ans;
-//    }
 };
 
 /* ************************* */
@@ -67,8 +49,32 @@ namespace AnsOne {
     };
 }
 
+/**
+ * 滑动窗口
+ */
+namespace AnsTwo {
+    // Thanks: LeetCode(@leetcode.cn)
+    // Time: 56ms(20.74%)  Memory: 15.8MB(14.55%)
+    class Solution {
+    public:
+        int lengthOfLongestSubstring(const std::string &s) {
+            int i = 0, j = 0, ans = 0, n = s.size();
+            std::set<char> window;
+            while (i < n && j < n) {
+                if (window.find(s[j]) == window.end()) {
+                    window.insert(s[j++]);
+                    ans = std::max(ans, j - i);
+                } else {
+                    window.erase(s[i++]);
+                }
+            }
+            return ans;
+        }
+    };
+}
+
 int main(int argc, char *argv[]) {
-    using Solution = AnsOne::Solution;
+    using Solution = AnsTwo::Solution;
     std::cout << (new Solution())->lengthOfLongestSubstring("abcabcbb") << std::endl;
     // Ans: 3
     std::cout << (new Solution())->lengthOfLongestSubstring("aa") << std::endl;
