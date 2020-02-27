@@ -7,14 +7,14 @@
 /* ************************* */
 
 // Thanks: 百度百科(https://baike.baidu.com/item/格雷码/6510858?fr=aladdin)
-// Time: 4ms  Memory: 8.9MB
+// Time: 4ms(83.22%)  Memory: 8.9MB(15.20%)
 class Solution {
 public:
     std::vector<int> grayCode(int n) {
-        std::vector<int> ans{0};
+        std::vector<int> ans(1<<n);
         int len = 1 << n;
         for (int i = 1; i < len; ++i) {
-            ans.push_back(i ^ (i>>1));
+            ans[i] = i ^ (i>>1);
         }
         return ans;
     }
