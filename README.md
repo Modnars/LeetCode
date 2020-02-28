@@ -38,6 +38,9 @@
 | A0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [cpp](./cpp/A0136/main.cpp) | 简单 | 🐧 | 20/02/25 | 位异或运算 |
 | A0137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) | [cpp](./cpp/A0137/main.cpp) | 中等 | 🤔, ⭐️ | 20/02/25 | 位运算 |
 | A0141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [cpp](./cpp/A0141/main.cpp) | 简单 | 🐧 | 20/02/25 | 快慢指针 |
+| A0142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [cpp](./cpp/A0142/main.cpp) | 中等 | 🤔, 🐧 | 20/02/28 | 快慢指针 |
+| A0146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [cpp](./cpp/A0146/main.cpp) | 中等 | 🤔, 🐧, 🚧 | 20/02/28 | |
+| A0148 | [排序链表](https://leetcode-cn.com/problems/sort-list/) | [cpp](./cpp/A0148/main.cpp) | 中等 | 🤔, 🐧, 🚧 | 20/02/28 | |
 | A0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [cpp](./cpp/A0155/main.cpp) | 简单 | 🐧 | 20/02/25 | 辅助栈 |
 | A0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [cpp](./cpp/A0160/main.cpp) | 简单 | 🐧 | 20/02/25 | 双指针求双链表公共结点 |
 | A0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [cpp](./cpp/A0167/main.cpp) | 简单 | | 20/02/20 |
