@@ -11,7 +11,7 @@
 | A0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [cpp](./cpp/A0001/main.cpp) | 简单 | 🤔, 🔥 | 20/02/20 |
 | A0002 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [cpp](./cpp/A0002/main.cpp) | 中等 | 🤔, 🐧, 🔥 | 20/02/20 |
 | A0003 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [cpp](./cpp/A0003/main.cpp) | 中等 | 🤔, 🔥 | 20/02/20 |
-| A0004 | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/comments/) | [cpp](./cpp/A0004/main.cpp) | 困难 | 🤔, 🐧, 🔥 | 20/02/25 | 切分法 |
+| A0004 | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/comments/) | [cpp](./cpp/A0004/main.cpp) | 困难 | ⚠️, 🤔, 🐧, 🔥 | 20/02/25 | 切分法 |
 | A0005 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [cpp](./cpp/A0005/main.cpp) | 中等 | 🐧, 🔥 | 20/02/23 | 整数除法取整 |
 | A0006 | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [cpp](./cpp/A0006/main.cpp) | 中等 | 🤔 | 20/02/22 |
 | A0007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer) | [cpp](./cpp/A0007/main.cpp) | 简单 | 🐧 | 20/02/21 |
@@ -21,13 +21,18 @@
 | A0012 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [cpp](./cpp/A0012/main.cpp) | 中等 | | 20/02/23 |
 | A0013 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [cpp](./cpp/A0013/main.cpp) | 简单 | | 20/02/23 |
 | A0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [cpp](./cpp/A0014/main.cpp) | 简单 | 🐧 | 20/02/23 |
+| A0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [cpp](./cpp/A0015/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/02/29 |
+| A0016 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [cpp](./cpp/A0016/main.cpp) | 中等 | 🐧, 🚧 | 20/02/29 |
 | A0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [cpp](./cpp/A0020/main.cpp) | 简单 | 🐧, 🔥 | 20/02/21 |
 | A0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [cpp](./cpp/A0021/main.cpp) | 简单 | 🐧, 🔥 | 20/02/21 |
 | A0023 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](./cpp/A0023/main.cpp) | 困难 | 🐧, 🔥 | 20/02/21 |
 | A0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./cpp/A0026/main.cpp) | 简单 | 🐧 | 20/02/22 |
+| A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | 🐧, 🚧 | |
 | A0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [cpp](./cpp/A0053/main.cpp) | 简单 | 🐧 | 20/02/26 | 贪心&分治 |
 | A0054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [cpp](./cpp/A0054/main.cpp) | 中等 | 🐧 | 20/02/25 |
 | A0059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [cpp](./cpp/A0059/main.cpp) | 中等 | 🐧 | 20/02/29 |
+| A0061 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [cpp](./cpp/A0061/main.cpp) | 中等 | 🐧 | 20/02/29 |
+| A0062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [cpp](./cpp/A0062/main.cpp) | 中等 | 🐧 | 20/02/29 |
 | A0070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [cpp](./cpp/A0070/main.cpp) | 简单 | 🐧, 🔥 | 20/02/22 |
 | A0078 | [子集](https://leetcode-cn.com/problems/subsets/) | [cpp](./cpp/A0078/main.cpp) | 中等 | 🐧 | 20/02/26 |
 | A0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [cpp](./cpp/A0088/main.cpp) | 简单 | 🐧 | 20/02/22 |
