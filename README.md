@@ -2,7 +2,17 @@
 
 &#160; &#160; &#160; &#160; **Modnar**的**LeetCode**刷题之旅。
 
-&#160; &#160; &#160; &#160; 其中“🤔”表示“感谢他人的题解思路、需要再回顾思考”；“⭐️”表示“我认为的好题”；“🐧”表示“腾讯精选练习50题”；“🔥”表示“热题HOT 100”；“🚧”表示“暂时未完成(TODO)”。
+| 标记 | 标记涵义 |
+| ---- | -------- |
+| ⚠️    | 警告！需要及时复习| 
+| 🤔   | 感谢他人的题解思路、需要再回顾思考 |
+| ⭐️   | 我认为的好题 | 
+| ✅   | 自2020.03.01开始的打卡活动完成打卡 |
+| 🐧   | 腾讯精选练习50题 |
+| 🔥   | 热题HOT 100 |
+| 🚧   | 暂时未完成(TODO) |
+
+
 
 ## 目录
 
@@ -57,6 +67,7 @@
 | A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | 🐧, 🔥 | 20/02/25 | 递归&迭代 |
 | A0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [cpp](./cpp/A0215/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧 | 20/02/27 | |
 | A0217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [cpp](./cpp/A0217/main.cpp) | 简单 | 🐧 | 20/02/23 | |
+| A0225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [cpp](./cpp/A0225/main.cpp) | 简单 | ✅ | 20/03/01 | [题解](https://leetcode-cn.com/problems/implement-stack-using-queues/solution/c-time-0ms10000-memory-95mb509-by-modnars/) |
 | A0229 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [cpp](./cpp/A0229/main.cpp) | 中等 | 🤔 | 20/02/23 | Boyer-Moore投票法 |
 | A0230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [cpp](./cpp/A0230/main.cpp) | 中等 | 🤔, 🐧 | 20/02/26 | 递归&迭代 |
 | A0231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/solution/2de-mi-by-leetcode/) | [cpp](./cpp/A0231/main.cpp) | 简单 | 🤔, 🐧 | 20/02/23 | 位运算 |
