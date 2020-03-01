@@ -37,6 +37,7 @@
 | A0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [cpp](./cpp/A0021/main.cpp) | 简单 | 🐧, 🔥 | 20/02/21 |
 | A0023 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](./cpp/A0023/main.cpp) | 困难 | 🐧, 🔥 | 20/02/21 |
 | A0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./cpp/A0026/main.cpp) | 简单 | 🐧 | 20/02/22 |
+| A0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [cpp](./cpp/A0027/main.cpp) | 简单 | | 20/03/01 | 双指针法 |
 | A0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](./cpp/A0033/main.cpp) | 中等 | 🐧, 🔥 | 20/03/01 |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
 | A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | 🐧, 🔥, 🚧 | |
