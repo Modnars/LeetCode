@@ -1,6 +1,7 @@
 // URL    : https://leetcode-cn.com/problems/reverse-linked-list/
 // Author : Modnar
 // Date   : 2020/02/25
+// Thanks : LeetCode(@leetcode.cn)
 
 #include <bits/stdc++.h>
 
@@ -20,18 +21,19 @@ void print(ListNode *head) {
 /* ************************* */
 
 // Algorithm: 迭代
-// Time: 4ms  Memory: 10.2MB
+// Time: 4ms(97.47%)  Memory: 10.2MB(5.00%)
 class Solution {
 public:
     ListNode *reverseList(ListNode *head) {
         ListNode *curr = head, *prev = nullptr;
         while (curr) {
             ListNode *next = curr->next; // 记录当前节点的下一个结点
-            curr->next = prev;            // 当前结点的next指针指向前一个结点
-            prev = curr;                  // 更新prev指针指向当前结点
+            curr->next = prev;           // 当前结点的next指针指向前一个结点
+            prev = curr;                 // 更新prev指针指向当前结点
             curr = next;                 // 更新curr使其指向下个待处理结点
         }
-        // 处理结束后，curr为空，此时prev指向原链表最后一个结点，也就是新链表的第一个结点
+        // 处理结束后，curr为空，此时prev指向原链表最后一个结点，
+        // 也就是新链表的第一个结点
         return prev;
     }
 };

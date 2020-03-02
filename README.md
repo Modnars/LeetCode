@@ -65,7 +65,7 @@
 | A0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [cpp](./cpp/A0160/main.cpp) | 简单 | 🐧, 🔥 | 20/02/25 | 双指针求双链表公共结点 |
 | A0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [cpp](./cpp/A0167/main.cpp) | 简单 | | 20/02/20 |
 | A0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [cpp](./cpp/A0169/main.cpp) | 简单 | 🤔, 🐧, 🔥 | 20/02/25 | Boyer-Moore投票法 |
-| A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | 🐧, 🔥 | 20/02/25 | 递归&迭代 |
+| A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | ✅, 🐧, 🔥 | 20/02/25 | [题解](https://leetcode-cn.com/problems/reverse-linked-list/solution/c-die-dai-by-modnars/) 递归&迭代 |
 | A0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [cpp](./cpp/A0215/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧 | 20/02/27 | |
 | A0217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [cpp](./cpp/A0217/main.cpp) | 简单 | 🐧 | 20/02/23 | |
 | A0225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [cpp](./cpp/A0225/main.cpp) | 简单 | ✅ | 20/03/01 | [题解](https://leetcode-cn.com/problems/implement-stack-using-queues/solution/c-time-0ms10000-memory-95mb509-by-modnars/) |
