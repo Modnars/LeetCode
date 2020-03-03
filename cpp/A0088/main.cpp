@@ -1,7 +1,7 @@
 // URL    : https://leetcode-cn.com/problems/merge-sorted-array/
 // Author : Modnar
 // Date   : 2020/02/22
-// Thanks : Official(@leetcode.cn)
+// Thanks : LeetCode(@leetcode.cn)
 
 #include <vector>
 #include <cstdlib>
@@ -43,12 +43,12 @@ public:
  * 将nums2的全部元素拷贝至nums1上。
  */
 namespace AnsOne {
-    // Thanks: Official(@leetcode.cn)
+    // Thanks: LeetCode(@leetcode.cn)
     // Time: 4ms  Memory: 11.4MB
     class Solution {
     public:
         void merge(std::vector<int> &nums1, int m, std::vector<int> &nums2, int n) {
-            int i = m-1, j = n-1, k = m+n-1;
+            int i = m - 1, j = n - 1, k = m + n - 1;
             while (i != -1 && j != -1) {
                 if (nums1[i] > nums2[j])
                     nums1[k--] = nums1[i--];

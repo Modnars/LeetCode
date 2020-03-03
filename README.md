@@ -4,9 +4,9 @@
 
 | 标记 | 标记涵义 |
 | ---- | -------- |
-| ⚠️    | 警告！需要及时复习| 
+| ⚠️    | 警告！需要及时复习|
 | 🤔   | 感谢他人的题解思路、需要再回顾思考 |
-| ⭐️   | 我认为的好题 | 
+| ⭐️   | 我认为的好题 |
 | ✅   | 自2020.03.01开始的打卡活动完成打卡 |
 | 🐧   | 腾讯精选练习50题 |
 | 🔥   | 热题HOT 100 |
@@ -15,6 +15,8 @@
 
 
 ## 目录
+
+### 基本题库
 
 |   #   | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
 | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -65,7 +67,7 @@
 | A0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [cpp](./cpp/A0160/main.cpp) | 简单 | 🐧, 🔥 | 20/02/25 | 双指针求双链表公共结点 |
 | A0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [cpp](./cpp/A0167/main.cpp) | 简单 | | 20/02/20 |
 | A0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [cpp](./cpp/A0169/main.cpp) | 简单 | 🤔, 🐧, 🔥 | 20/02/25 | Boyer-Moore投票法 |
-| A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | ✅, 🐧, 🔥 | 20/02/25 | [题解](https://leetcode-cn.com/problems/reverse-linked-list/solution/c-die-dai-by-modnars/) 递归&迭代 |
+| A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | ✅, 🐧, 🔥 | 20/02/25 | [C++迭代](https://leetcode-cn.com/problems/reverse-linked-list/solution/c-die-dai-by-modnars/) 递归&迭代 |
 | A0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [cpp](./cpp/A0215/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧 | 20/02/27 | |
 | A0217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [cpp](./cpp/A0217/main.cpp) | 简单 | 🐧 | 20/02/23 | |
 | A0225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [cpp](./cpp/A0225/main.cpp) | 简单 | ✅ | 20/03/01 | [题解](https://leetcode-cn.com/problems/implement-stack-using-queues/solution/c-time-0ms10000-memory-95mb509-by-modnars/) |
@@ -82,3 +84,12 @@
 | A0540 | [删除链表中的结点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [cpp](./cpp/A0540/main.cpp) | 简单 | ⭐️, 🐧 | 20/02/23 |
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
+
+
+### 面试
+
+
+|   #    | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
+| ------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/01 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
+
