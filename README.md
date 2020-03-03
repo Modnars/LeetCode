@@ -27,7 +27,7 @@
 | A0005 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [cpp](./cpp/A0005/main.cpp) | 中等 | 🐧, 🔥 | 20/02/23 | 整数除法取整 |
 | A0006 | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [cpp](./cpp/A0006/main.cpp) | 中等 | 🤔 | 20/02/22 |
 | A0007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer) | [cpp](./cpp/A0007/main.cpp) | 简单 | 🐧 | 20/02/21 |
-| A0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [cpp](./cpp/A0008/main.cpp) | 中等 | 🐧, 🚧 | |
+| A0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [cpp](./cpp/A0008/main.cpp) | 中等 | 🐧 | 20/03/03 | 整数溢出判断 |
 | A0009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [cpp](./cpp/A0009/main.cpp) | 简单 | 🐧 | 20/02/21 |
 | A0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](./cpp/A0011/main.cpp) | 中等 | 🐧, 🔥 | 20/02/23 |
 | A0012 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [cpp](./cpp/A0012/main.cpp) | 中等 | | 20/02/23 |
@@ -42,7 +42,7 @@
 | A0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [cpp](./cpp/A0027/main.cpp) | 简单 | | 20/03/01 | 双指针法 |
 | A0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](./cpp/A0033/main.cpp) | 中等 | 🐧, 🔥 | 20/03/01 |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
-| A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | 🐧, 🔥, 🚧 | |
+| A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥 | 20/03/03 | 回溯算法 |
 | A0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [cpp](./cpp/A0053/main.cpp) | 简单 | 🐧, 🔥 | 20/02/26 | 贪心&分治 |
 | A0054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [cpp](./cpp/A0054/main.cpp) | 中等 | 🐧 | 20/02/25 |
 | A0059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [cpp](./cpp/A0059/main.cpp) | 中等 | 🐧 | 20/02/29 |
@@ -91,5 +91,8 @@
 
 |   #    | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
 | ------ | ---- | ---- | ---- | ---- | ---- | ---- |
-| B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/01 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
+| B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
 
+## 说明
+
+上述里诶包中的时间为首次在力扣提交并通过的日期，对于一些标记(比如“✅”)来说，标记获取的日期可能和列表中时间不一致。针对这些不一致的情况，这些标记的具体获取时间会在源代码中标识
