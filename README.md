@@ -29,6 +29,7 @@
 | A0007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer) | [cpp](./cpp/A0007/main.cpp) | 简单 | 🐧 | 20/02/21 |
 | A0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [cpp](./cpp/A0008/main.cpp) | 中等 | 🐧 | 20/03/03 | 整数溢出判断 |
 | A0009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [cpp](./cpp/A0009/main.cpp) | 简单 | 🐧 | 20/02/21 |
+| A0010 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [cpp](./cpp/A0010/main.cpp) | 困难 | 🚧 | 20/03/04 |
 | A0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](./cpp/A0011/main.cpp) | 中等 | 🐧, 🔥 | 20/02/23 |
 | A0012 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [cpp](./cpp/A0012/main.cpp) | 中等 | | 20/02/23 |
 | A0013 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [cpp](./cpp/A0013/main.cpp) | 简单 | | 20/02/23 |
@@ -86,6 +87,7 @@
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
 | A0994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [cpp](./cpp/A0994/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/04 | BFS, [官方题解](https://leetcode-cn.com/problems/rotting-oranges/solution/fu-lan-de-ju-zi-by-leetcode-solution/) |
+| A1103 | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [cpp](./cpp/A1103/main.cpp) | 简单 | ✅ | 20/03/05 | |
 
 
 ### 面试
