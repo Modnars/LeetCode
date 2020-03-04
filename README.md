@@ -35,6 +35,7 @@
 | A0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [cpp](./cpp/A0014/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0015 | [三数之和](https://leetcode-cn.com/problems/3sum/) | [cpp](./cpp/A0015/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥 | 20/02/29 |
 | A0016 | [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [cpp](./cpp/A0016/main.cpp) | 中等 | 🐧, 🚧 | 20/02/29 |
+| A0017 | [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [cpp](./cpp/A0017/main.cpp) | 中等 | 👨‍💻, 🚧 | 20/03/04 | 回溯(TODO) |
 | A0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [cpp](./cpp/A0020/main.cpp) | 简单 | 🐧, 🔥 | 20/02/21 |
 | A0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [cpp](./cpp/A0021/main.cpp) | 简单 | 🐧, 🔥 | 20/02/21 |
 | A0023 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](./cpp/A0023/main.cpp) | 困难 | 🐧, 🔥 | 20/02/21 |
@@ -89,10 +90,18 @@
 
 ### 面试
 
-
 |   #    | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
 | ------ | ---- | ---- | ---- | ---- | ---- | ---- |
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
+
+
+### 经历
+
+| # | 题目 | 题解 | 来源 | 时间 | 笔记 |
+| - | ---- | ---- | ---- | ---- | ---- |
+| 华为机试题 | [旋转N阶方阵](./experience/HUAWEI/OperatingExam/Q1/README.md) | [cpp](./experience/HUAWEI/OperatingExam/Q1/main.cpp) | 华为 | 20/03/04 | 格式化输出 |
+| 华为机试题 | [礼物分法](./experience/HUAWEI/OperatingExam/Q2/README.md) | [cpp](./experience/HUAWEI/OperatingExam/Q2/main.cpp) | 华为 | 20/03/04 | 回溯 |
+| 华为机试题 | [排版校对](./experience/HUAWEI/OperatingExam/Q3/README.md) | [cpp](./experience/HUAWEI/OperatingExam/Q3/main.cpp) | 华为 | 20/03/04 | 动态规划 |
 
 ## 说明
 
