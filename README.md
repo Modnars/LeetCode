@@ -12,8 +12,6 @@
 | 🔥   | 热题HOT 100 |
 | 🚧   | 暂时未完成(TODO) |
 
-
-
 ## 目录
 
 ### 基本题库
@@ -29,7 +27,7 @@
 | A0007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer) | [cpp](./cpp/A0007/main.cpp) | 简单 | 🐧 | 20/02/21 |
 | A0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [cpp](./cpp/A0008/main.cpp) | 中等 | 🐧 | 20/03/03 | 整数溢出判断 |
 | A0009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [cpp](./cpp/A0009/main.cpp) | 简单 | 🐧 | 20/02/21 |
-| A0010 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [cpp](./cpp/A0010/main.cpp) | 困难 | 🚧 | 20/03/04 |
+| A0010 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [cpp](./cpp/A0010/main.cpp) | 困难 | 🚧 | |
 | A0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](./cpp/A0011/main.cpp) | 中等 | 🐧, 🔥 | 20/02/23 |
 | A0012 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [cpp](./cpp/A0012/main.cpp) | 中等 | | 20/02/23 |
 | A0013 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [cpp](./cpp/A0013/main.cpp) | 简单 | | 20/02/23 |
@@ -45,6 +43,7 @@
 | A0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](./cpp/A0033/main.cpp) | 中等 | 🐧, 🔥 | 20/03/01 |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
 | A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥 | 20/03/03 | 回溯算法 |
+| A0047 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [cpp](./cpp/A0047/main.cpp) | 中等 | 🤔 | 20/03/03 | 回溯 & 剪枝 |
 | A0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [cpp](./cpp/A0053/main.cpp) | 简单 | 🐧, 🔥 | 20/02/26 | 贪心&分治 |
 | A0054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [cpp](./cpp/A0054/main.cpp) | 中等 | 🐧 | 20/02/25 |
 | A0059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [cpp](./cpp/A0059/main.cpp) | 中等 | 🐧 | 20/02/29 |

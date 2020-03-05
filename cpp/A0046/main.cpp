@@ -9,38 +9,31 @@
 
 // Thanks: liweiwei1419(@leetcode.cn)
 // Solution: https://leetcode-cn.com/problems/permutations/solution/hui-su-suan-fa-python-dai-ma-java-dai-ma-by-liweiw/
-// Time: 8ms(72.70%)  Memory: 10MB(17.43%)
+// Time: 4ms(93.44%)  Memory: 10.3MB(12.78%)
 class Solution {
 public:
     std::vector<std::vector<int>> permute(std::vector<int> &nums) {
-        int len = nums.size();
-        std::vector<std::vector<int>> ans;
-        if (len == 0) return ans;
-        std::vector<bool> used(len);
+        std::vector<bool> used(nums.size());
         std::vector<int> path;
-        dfs(nums, len, 0, path, used, ans);
+        backtrack(0, nums.size(), nums, used, path);
         return ans;
     }
 
 private:
-    void dfs(const std::vector<int> &nums, int len, int depth, std::vector<int> &path,
-            std::vector<bool> &used, std::vector<std::vector<int>> &ans) {
-        if (depth == len) {
+    std::vector<std::vector<int>> ans;
+    void backtrack(int curr, int lim, std::vector<int> &nums, 
+            std::vector<bool> &used, std::vector<int> &path) {
+        if (curr == lim) {
             ans.push_back(path);
-            return ;
-        }
-        for (int i = 0; i != len; ++i) {
-            if (!used[i]) {
-                path.push_back(nums[i]);
-                used[i] = true;
-                dfs(nums, len, depth+1, path, used, ans);
-                used[i] = false;
-                for (auto iter = path.begin(); iter != path.end(); )
-                    if (*iter == nums[i]) {
-                        iter = path.erase(iter);
-                    } else {
-                        ++iter;
-                    }
+        } else {
+            for (int i = 0; i != nums.size(); ++i) {
+                if (!used[i]) {
+                    path.push_back(nums[i]);
+                    used[i] = true;
+                    backtrack(curr+1, lim, nums, used, path);
+                    used[i] = false;
+                    path.pop_back();
+                }
             }
         }
     }
