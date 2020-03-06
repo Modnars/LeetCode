@@ -86,6 +86,7 @@
 | A0260 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [cpp](./cpp/A0260/main.cpp) | 中等 | | 20/02/25 | 位运算 |
 | A0292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) | [cpp](./cpp/A0292/main.cpp) | 简单 | | 20/02/23 |
 | A0344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [cpp](./cpp/A0344/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 |
+| A0540 | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [cpp](./cpp/A0540/main.cpp) | 中等 | | 20/03/06 |
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
 | A0994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [cpp](./cpp/A0994/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/04 | BFS, [官方题解](https://leetcode-cn.com/problems/rotting-oranges/solution/fu-lan-de-ju-zi-by-leetcode-solution/) |
