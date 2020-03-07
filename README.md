@@ -44,6 +44,7 @@
 | A0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./cpp/A0026/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
 | A0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [cpp](./cpp/A0027/main.cpp) | 简单 | | 20/03/01 | 双指针法 |
 | A0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](./cpp/A0033/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/03/01 |
+| A0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](./cpp/A0034/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/06 | 二分搜索改进 |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
 | A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/03 | 回溯算法 |
 | A0047 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [cpp](./cpp/A0047/main.cpp) | 中等 | 🤔 | 20/03/03 | 回溯 & 剪枝 |
@@ -53,6 +54,7 @@
 | A0061 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [cpp](./cpp/A0061/main.cpp) | 中等 | 🐧 | 20/02/29 |
 | A0062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [cpp](./cpp/A0062/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/29 |
 | A0070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [cpp](./cpp/A0070/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/22 |
+| A0073 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [cpp](./cpp/A0073/main.cpp) | 中等 | ⚠️, 🤔, 👨‍💻 | 20/03/06 |
 | A0078 | [子集](https://leetcode-cn.com/problems/subsets/) | [cpp](./cpp/A0078/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/26 |
 | A0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [cpp](./cpp/A0088/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
 | A0089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [cpp](./cpp/A0089/main.cpp) | 中等 | 🤔, 🐧 | 20/02/24 | 格雷编码 |
@@ -97,8 +99,9 @@
 
 |   #    | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
 | ------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](.cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
+| B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](.cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
-| B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](.cpp/B0057/main.cpp) | 简单 | ❌, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
 
 
 ### 经历
@@ -111,4 +114,4 @@
 
 ## 说明
 
-上述里诶包中的时间为首次在力扣提交并通过的日期，对于一些标记(比如“✅”)来说，标记获取的日期可能和列表中时间不一致。针对这些不一致的情况，这些标记的具体获取时间会在源代码中标识
+&#160; &#160; &#160; &#160; 上述列表中的时间为首次在力扣提交并通过的日期，代码中的Date表示初次尝试解题的时间。对于一些标记(比如“✅”)来说，标记获取的日期可能和列表中时间不一致。针对这些不一致的情况，这些标记的具体获取时间会在源代码中标识
