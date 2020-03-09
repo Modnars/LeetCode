@@ -47,6 +47,7 @@
 | A0028 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [cpp](./cpp/A0028/main.cpp) | 简单 | 👨‍💻 | | 字符串匹配 |
 | A0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](./cpp/A0033/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/03/01 |
 | A0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](./cpp/A0034/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/06 | 二分搜索改进 |
+| A0036 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [cpp](./cpp/A0036/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/09 | 数组下标计算 |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
 | A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/03 | 回溯算法 |
 | A0047 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [cpp](./cpp/A0047/main.cpp) | 中等 | 🤔 | 20/03/03 | 回溯 & 剪枝 |
@@ -62,7 +63,7 @@
 | A0089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [cpp](./cpp/A0089/main.cpp) | 中等 | 🤔, 🐧 | 20/02/24 | 格雷编码 |
 | A0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [cpp](./cpp/A0104/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/23 | 递归 |
 | A0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [cpp](./cpp/A0111/main.cpp) | 简单 | | 20/02/23 | 递归 |
-| A0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [cpp](./cpp/A0121/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | |
+| A0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [cpp](./cpp/A0121/main.cpp) | 简单 | ✅, 🐧, 🔥, 👨‍💻 | 20/02/25 | |
 | A0122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [cpp](./cpp/A0122/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/25 | |
 | A0124 | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | [cpp](./cpp/A0124/main.cpp) | 困难 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/01 | |
 | A0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [cpp](./cpp/A0136/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | 位异或运算 |
