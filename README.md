@@ -106,6 +106,8 @@
 
 |   #    | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
 | ------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| B0003 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [cpp](.cpp/B0003/main.cpp) | 简单 | ⚔ | 20/03/09 | |
+| B0004 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [cpp](.cpp/B0004/main.cpp) | 简单 | 🤔, ⭐️, ⚔ | 20/03/09 | |
 | B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](.cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
 | B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](.cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
