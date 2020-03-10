@@ -1,6 +1,7 @@
 // URL    : https://leetcode-cn.com/problems/binary-tree-inorder-traversal/
 // Author : Modnar
 // Date   : 2020/03/09
+// Thanks : LeetCode(@leetcode.cn)
 
 #include <bits/stdc++.h>
 
