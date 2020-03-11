@@ -16,6 +16,10 @@ struct TreeNode {
 
 /**
  * 深度优先搜索(DFS)
+ *     使用DFS求以结点node为子树根结点的最大深度(包括当前结点和叶子结点)。由此可知，
+ * 结点node的左子树最大深度L = depth(node->left)；右子树最大深度R = depth(node->
+ * right)，那么由此可知此时可计算的最大直径为L+R+1，即求和且加入当前结点后得到的
+ * 结果值，需要注意的是，这个结果值为最大直径上的结点数，因而要求直径值，要减去一。
  */
 // Thanks: LeetCode(@leetcode.cn)
 // Solution: https://leetcode-cn.com/problems/diameter-of-binary-tree/solution/er-cha-shu-de-zhi-jing-by-leetcode-solution/

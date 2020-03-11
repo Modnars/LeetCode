@@ -63,7 +63,7 @@
 | A0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [cpp](./cpp/A0088/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
 | A0089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [cpp](./cpp/A0089/main.cpp) | 中等 | 🤔, 🐧 | 20/02/24 | 格雷编码 |
 | A0094 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [cpp](./cpp/A0094/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/09 | 递归 & 迭代 |
-| A0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [cpp](./cpp/A0104/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/03/09 | 递归 & 迭代 |
+| A0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [cpp](./cpp/A0104/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/03/10 | 递归 & 迭代 |
 | A0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [cpp](./cpp/A0111/main.cpp) | 简单 | | 20/02/23 | 递归 |
 | A0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [cpp](./cpp/A0121/main.cpp) | 简单 | ✅, 🐧, 🔥, 👨‍💻 | 20/02/25 | |
 | A0122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [cpp](./cpp/A0122/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/25 | |
@@ -95,10 +95,11 @@
 | A0322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [cpp](./cpp/A0322/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/03/08 | 动态规划 |
 | A0344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [cpp](./cpp/A0344/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 |
 | A0540 | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [cpp](./cpp/A0540/main.cpp) | 中等 | | 20/03/06 |
-| A0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [cpp](./cpp/A0543/main.cpp) | 简单 | 🤔, ✅, 🚧| 20/03/09 |
+| A0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [cpp](./cpp/A0543/main.cpp) | 简单 | 🤔, ✅ | 20/03/10 |
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
 | A0994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [cpp](./cpp/A0994/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/04 | BFS, [官方题解](https://leetcode-cn.com/problems/rotting-oranges/solution/fu-lan-de-ju-zi-by-leetcode-solution/) |
+| A1013 | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [cpp](./cpp/A1013/main.cpp) | 简单 | 🤔, ✅ | 20/03/11 | |
 | A1103 | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [cpp](./cpp/A1103/main.cpp) | 简单 | ✅ | 20/03/05 | |
 
 
@@ -106,8 +107,9 @@
 
 |   #    | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
 | ------ | ---- | ---- | ---- | ---- | ---- | ---- |
-| B0003 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [cpp](.cpp/B0003/main.cpp) | 简单 | ⚔ | 20/03/09 | |
-| B0004 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [cpp](.cpp/B0004/main.cpp) | 简单 | 🤔, ⭐️, ⚔ | 20/03/09 | |
+| B0003 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [cpp](.cpp/B0003/main.cpp) | 简单 | ⚔ | 20/03/10 | |
+| B0004 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [cpp](.cpp/B0004/main.cpp) | 简单 | 🤔, ⭐️, ⚔ | 20/03/10 | |
+| B0005 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [cpp](.cpp/B0005/main.cpp) | 简单 | 🤔 | 20/03/10 | string.replace |
 | B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](.cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
 | B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](.cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
