@@ -18,7 +18,7 @@
 
 ### 基本题库
 
-|   #   | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
+|   #   | 题目 | 题解 | 难度 | 标记 | 时间 | 备注 |
 | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
 | A0001 | [两数之和](https://leetcode-cn.com/problems/two-sum/) | [cpp](./cpp/A0001/main.cpp) | 简单 | 🤔, 🔥, 👨‍💻 | 20/02/20 |
 | A0002 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [cpp](./cpp/A0002/main.cpp) | 中等 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/20 |
@@ -48,6 +48,7 @@
 | A0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](./cpp/A0033/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/03/01 |
 | A0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](./cpp/A0034/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/06 | 二分搜索改进 |
 | A0036 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [cpp](./cpp/A0036/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/09 | 数组下标计算 |
+| A0038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [cpp](./cpp/A0038/main.cpp) | 简单 | | 20/03/11 | 0ms |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
 | A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/03 | 回溯算法 |
 | A0047 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [cpp](./cpp/A0047/main.cpp) | 中等 | 🤔 | 20/03/03 | 回溯 & 剪枝 |
@@ -57,6 +58,7 @@
 | A0059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [cpp](./cpp/A0059/main.cpp) | 中等 | 🐧 | 20/02/29 |
 | A0061 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [cpp](./cpp/A0061/main.cpp) | 中等 | 🐧 | 20/02/29 |
 | A0062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [cpp](./cpp/A0062/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/29 |
+| A0069 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/) | [cpp](./cpp/A0069/main.cpp) | 简单 | 🤔, 👨‍💻 | 20/03/12 |
 | A0070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [cpp](./cpp/A0070/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/22 |
 | A0073 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [cpp](./cpp/A0073/main.cpp) | 中等 | ⚠️, 🤔, 👨‍💻 | 20/03/06 |
 | A0078 | [子集](https://leetcode-cn.com/problems/subsets/) | [cpp](./cpp/A0078/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/26 |
@@ -92,6 +94,7 @@
 | A0238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [cpp](./cpp/A0238/main.cpp) | 中等 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/26 | 乘积列表 |
 | A0260 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [cpp](./cpp/A0260/main.cpp) | 中等 | | 20/02/25 | 位运算 |
 | A0292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) | [cpp](./cpp/A0292/main.cpp) | 简单 | | 20/02/23 |
+| A0319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/) | [cpp](./cpp/A0319/main.cpp) | 中等 | 🤔, ✅ | 20/03/11 | 思维 |
 | A0322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [cpp](./cpp/A0322/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/03/08 | 动态规划 |
 | A0344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [cpp](./cpp/A0344/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 |
 | A0540 | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [cpp](./cpp/A0540/main.cpp) | 中等 | | 20/03/06 |
@@ -100,6 +103,7 @@
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
 | A0994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [cpp](./cpp/A0994/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/04 | BFS, [官方题解](https://leetcode-cn.com/problems/rotting-oranges/solution/fu-lan-de-ju-zi-by-leetcode-solution/) |
 | A1013 | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [cpp](./cpp/A1013/main.cpp) | 简单 | 🤔, ✅ | 20/03/11 | |
+| A1071 | [字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [cpp](./cpp/A1071/main.cpp) | 简单 | 🤔, ✅ | 20/03/12 | GCD |
 | A1103 | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [cpp](./cpp/A1103/main.cpp) | 简单 | ✅ | 20/03/05 | |
 
 
