@@ -3,6 +3,8 @@
 // Date   : 2020/02/25
 // Thanks : LeetCode(@leetcode.cn)
 
+// ✅ : 2020/03/13
+
 #include <bits/stdc++.h>
 
 /* ************************* */
@@ -42,7 +44,7 @@ public:
  */
 namespace AnsOne {
     // Thanks: LeetCode(@leetcode.cn)
-    // Time: 20ms  Memory: 21.1MB
+    // Time: 24ms(61.00%)  Memory: 20.2MB(5.28%)
     class Solution {
     public:
         int majorityElement(std::vector<int> &nums) {
