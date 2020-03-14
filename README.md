@@ -94,7 +94,7 @@
 | A0238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [cpp](./cpp/A0238/main.cpp) | 中等 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/26 | 乘积列表 |
 | A0260 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [cpp](./cpp/A0260/main.cpp) | 中等 | | 20/02/25 | 位运算 |
 | A0292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) | [cpp](./cpp/A0292/main.cpp) | 简单 | | 20/02/23 |
-| A0300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [cpp](./cpp/A0300/main.cpp) | 中等 | 🤔, ✅ | 20/03/13 | 动态规划 |
+| A0300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [cpp](./cpp/A0300/main.cpp) | 中等 | 🤔, ✅ | 20/03/13 | 动态规划、贪心+二分 |
 | A0319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/) | [cpp](./cpp/A0319/main.cpp) | 中等 | 🤔, ✅ | 20/03/11 | 思维 |
 | A0322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [cpp](./cpp/A0322/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/03/08 | 动态规划 |
 | A0344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [cpp](./cpp/A0344/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 |
@@ -117,7 +117,8 @@
 | B0005 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [cpp](.cpp/B0005/main.cpp) | 简单 | 🤔 | 20/03/10 | string.replace |
 | B0006 | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [cpp](.cpp/B0006/main.cpp) | 简单 | ⭐️, ⚔ | 20/03/13 | 多方法求解 |
 | B0009 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [cpp](.cpp/B0009/main.cpp) | 简单 | ⚔ | 20/03/13 | |
-| B0010 | [I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [cpp](.cpp/B0010/main.cpp) | 简单 | ⚔ | 20/03/13 | |
+| B0010.1 | [I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [cpp](.cpp/B0010.1/main.cpp) | 简单 | ⚔ | 20/03/13 | |
+| B0010.2 | [II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [cpp](.cpp/B0010.2/main.cpp) | 简单 | ⚔ | 20/03/14 | |
 | B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](.cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
 | B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](.cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
