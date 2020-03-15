@@ -99,6 +99,7 @@
 | A0540 | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [cpp](./cpp/A0540/main.cpp) | 中等 | | 20/03/06 |
 | A0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [cpp](./cpp/A0543/main.cpp) | 简单 | 🤔, ✅ | 20/03/10 |
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
+| A0695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [cpp](./cpp/A0557/main.cpp) | 中等 | ✅ | 20/03/15 | 深度优先搜索 |
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
 | A0994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [cpp](./cpp/A0994/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/04 | BFS, [官方题解](https://leetcode-cn.com/problems/rotting-oranges/solution/fu-lan-de-ju-zi-by-leetcode-solution/) |
 | A1013 | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [cpp](./cpp/A1013/main.cpp) | 简单 | 🤔, ✅ | 20/03/11 | |
