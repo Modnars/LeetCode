@@ -52,6 +52,7 @@
 | A0049 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [cpp](./cpp/A0049/main.cpp) | 中等 | 🤔 | 20/03/15 | 哈希散列表 |
 | A0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [cpp](./cpp/A0053/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/26 | 贪心&分治 |
 | A0054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [cpp](./cpp/A0054/main.cpp) | 中等 | 🐧, 👨‍💻 | 20/02/25 |
+| A0058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [cpp](./cpp/A0058/main.cpp) | 简单 | | 20/03/16 |
 | A0059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [cpp](./cpp/A0059/main.cpp) | 中等 | 🐧 | 20/02/29 |
 | A0061 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [cpp](./cpp/A0061/main.cpp) | 中等 | 🐧 | 20/02/29 |
 | A0062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [cpp](./cpp/A0062/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/29 |
@@ -131,8 +132,8 @@
 | ----- | ---- | ---- | ---- | ---- | ---- | ---- |
 | C5356 | [矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [cpp](./contest/C180/Q1/main.cpp) | 简单 | 🎯180 | 20/03/15 | |
 | C5357 | [设计一个支持增量操作的栈](https://leetcode-cn.com/contest/weekly-contest-180/problems/design-a-stack-with-increment-operation/) | [cpp](./contest/C180/Q2/main.cpp) | 中等 | 🎯180 | 20/03/15 | |
-| C5179 | [将二叉搜索树变平衡](https://leetcode-cn.com/contest/weekly-contest-180/problems/balance-a-binary-search-tree/) | [cpp](./contest/C180/Q3/main.cpp) | 中等 | 🎯180, 🚧 | 20/03/15 | |
-| C5359 | [最大的团队表现值](https://leetcode-cn.com/contest/weekly-contest-180/problems/maximum-performance-of-a-team/) | [cpp](./contest/C180/Q4/main.cpp) | 困难 | 🎯180, 🚧 | 20/03/15 | |
+| C5179 | [将二叉搜索树变平衡](https://leetcode-cn.com/contest/weekly-contest-180/problems/balance-a-binary-search-tree/) | [cpp](./contest/C180/Q3/main.cpp) | 中等 | 🎯180, 🤔 | 20/03/15 | |
+| C5359 | [最大的团队表现值](https://leetcode-cn.com/contest/weekly-contest-180/problems/maximum-performance-of-a-team/) | [cpp](./contest/C180/Q4/main.cpp) | 困难 | 🎯180, ⚠️, 🤔 | 20/03/15 | |
 
 
 ### 经历
