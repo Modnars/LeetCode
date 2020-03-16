@@ -110,19 +110,29 @@
 
 ### 面试
 
-|   #    | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
-| ------ | ---- | ---- | ---- | ---- | ---- | ---- |
-| B0003 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [cpp](.cpp/B0003/main.cpp) | 简单 | 🗡 | 20/03/10 | |
-| B0004 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [cpp](.cpp/B0004/main.cpp) | 简单 | 🤔, ⭐️, 🗡 | 20/03/10 | |
-| B0005 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [cpp](.cpp/B0005/main.cpp) | 简单 | 🤔 | 20/03/10 | string.replace |
-| B0006 | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [cpp](.cpp/B0006/main.cpp) | 简单 | ⭐️, 🗡 | 20/03/13 | 多方法求解 |
-| B0009 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [cpp](.cpp/B0009/main.cpp) | 简单 | 🗡 | 20/03/13 | |
-| B0010.1 | [I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [cpp](.cpp/B0010.1/main.cpp) | 简单 | 🗡 | 20/03/13 | |
-| B0010.2 | [II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [cpp](.cpp/B0010.2/main.cpp) | 简单 | 🗡 | 20/03/14 | |
+|   #   | 题目 | 题解 | 难度 | 标记 | 时间 | 笔记 |
+| ----- | ---- | ---- | ---- | ---- | ---- | ---- |
+| B0003 | [数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [cpp](./cpp/B0003/main.cpp) | 简单 | 🗡 | 20/03/10 | |
+| B0004 | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [cpp](./cpp/B0004/main.cpp) | 简单 | 🤔, ⭐️, 🗡 | 20/03/10 | |
+| B0005 | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [cpp](./cpp/B0005/main.cpp) | 简单 | 🤔 | 20/03/10 | string.replace |
+| B0006 | [从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [cpp](./cpp/B0006/main.cpp) | 简单 | ⭐️, 🗡 | 20/03/13 | 多方法求解 |
+| B0009 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [cpp](./cpp/B0009/main.cpp) | 简单 | 🗡 | 20/03/13 | |
+| B0010.1 | [I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [cpp](./cpp/B0010.1/main.cpp) | 简单 | 🗡 | 20/03/13 | |
+| B0010.2 | [II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [cpp](./cpp/B0010.2/main.cpp) | 简单 | 🗡 | 20/03/14 | |
 | B0011 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [cpp](.cpp/B0011/main.cpp) | 简单 | 🗡, 🤔, ⭐️ | 20/03/14 | 二分 |
-| B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](.cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
-| B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](.cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
-| B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](.cpp/A10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
+| B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](./cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
+| B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](./cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
+| B01.06 | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | [cpp](./cpp/B01.06/main.cpp) | 简单 | ✅ | 20/03/16 | |
+| B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](./cpp/B10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
+
+### 周赛
+
+|   #   | 题目 | 题解 | 难度 | 标记 | 时间 | 备注 |
+| ----- | ---- | ---- | ---- | ---- | ---- | ---- |
+| C5356 | [矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [cpp](./contest/C180/Q1/main.cpp) | 简单 | 🎯180 | 20/03/15 | |
+| C5357 | [设计一个支持增量操作的栈](https://leetcode-cn.com/contest/weekly-contest-180/problems/design-a-stack-with-increment-operation/) | [cpp](./contest/C180/Q2/main.cpp) | 中等 | 🎯180 | 20/03/15 | |
+| C5179 | [将二叉搜索树变平衡](https://leetcode-cn.com/contest/weekly-contest-180/problems/balance-a-binary-search-tree/) | [cpp](./contest/C180/Q3/main.cpp) | 中等 | 🎯180, 🚧 | 20/03/15 | |
+| C5359 | [最大的团队表现值](https://leetcode-cn.com/contest/weekly-contest-180/problems/maximum-performance-of-a-team/) | [cpp](./contest/C180/Q4/main.cpp) | 困难 | 🎯180, 🚧 | 20/03/15 | |
 
 
 ### 经历
