@@ -107,6 +107,7 @@
 | A1013 | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [cpp](./cpp/A1013/main.cpp) | 简单 | 🤔, ✅ | 20/03/11 | |
 | A1071 | [字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [cpp](./cpp/A1071/main.cpp) | 简单 | 🤔, ✅ | 20/03/12 | GCD |
 | A1103 | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [cpp](./cpp/A1103/main.cpp) | 简单 | ✅ | 20/03/05 | |
+| A1160 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [cpp](./cpp/A1160/main.cpp) | 简单 | ✅ | 20/03/17 | |
 
 
 ### 面试
