@@ -68,7 +68,7 @@ namespace AnsOne {
                     len2 = expendAroundCenter(s, i, i+1);
                 if (maxLen < std::max(len1, len2)) {
                     maxLen = std::max(len1, len2);
-                    beg = i - (maxLen-1)/2;
+                    beg = i - (maxLen-1) / 2;
                 }
             }
             return s.substr(beg, maxLen);
