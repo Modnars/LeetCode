@@ -123,7 +123,7 @@
 | B0010.1 | [I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [cpp](./cpp/B0010.1/main.cpp) | 简单 | 🗡 | 20/03/13 | |
 | B0010.2 | [II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [cpp](./cpp/B0010.2/main.cpp) | 简单 | 🗡 | 20/03/14 | |
 | B0011 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [cpp](.cpp/B0011/main.cpp) | 简单 | 🗡, 🤔, ⭐️ | 20/03/14 | 二分 |
-| B0040 | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [cpp](./cpp/B0040/main.cpp) | 简单 | 🚧, ✅ | 20/03/20 | STL |
+| B0040 | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [cpp](./cpp/B0040/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/20 | 排序、堆排序、快排思想 |
 | B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](./cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
 | B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](./cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
 | B01.06 | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | [cpp](./cpp/B01.06/main.cpp) | 简单 | ✅ | 20/03/16 | |
