@@ -98,6 +98,7 @@
 | A0319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/) | [cpp](./cpp/A0319/main.cpp) | 中等 | 🤔, ✅ | 20/03/11 | 思维 |
 | A0322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [cpp](./cpp/A0322/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/03/08 | 动态规划 |
 | A0344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [cpp](./cpp/A0344/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 |
+| A0365 | [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/) | [cpp](./cpp/A0365/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/03/21 |
 | A0409 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [cpp](./cpp/A0540/main.cpp) | 简单 | | 20/03/19 |
 | A0540 | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [cpp](./cpp/A0540/main.cpp) | 中等 | | 20/03/06 |
 | A0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [cpp](./cpp/A0543/main.cpp) | 简单 | 🤔, ✅ | 20/03/10 |
