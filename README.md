@@ -140,6 +140,10 @@
 | C5357 | [设计一个支持增量操作的栈](https://leetcode-cn.com/contest/weekly-contest-180/problems/design-a-stack-with-increment-operation/) | [cpp](./contest/C180/Q2/main.cpp) | 中等 | 🎯180 | 20/03/15 | |
 | C5179 | [将二叉搜索树变平衡](https://leetcode-cn.com/contest/weekly-contest-180/problems/balance-a-binary-search-tree/) | [cpp](./contest/C180/Q3/main.cpp) | 中等 | 🎯180, 🤔 | 20/03/15 | |
 | C5359 | [最大的团队表现值](https://leetcode-cn.com/contest/weekly-contest-180/problems/maximum-performance-of-a-team/) | [cpp](./contest/C180/Q4/main.cpp) | 困难 | 🎯180, ⚠️, 🤔 | 20/03/15 | |
+| C5364 | [按既定顺序创建目标数组](https://leetcode-cn.com/contest/weekly-contest-181/problems/create-target-array-in-the-given-order/) | [cpp](./contest/C181/Q1/main.cpp) | 简单 | 🎯181 | 20/03/22 | |
+| C5187 | [四因数](https://leetcode-cn.com/contest/weekly-contest-181/problems/create-target-array-in-the-given-order/) | [cpp](./contest/C181/Q2/main.cpp) | 中等 | 🎯181 | 20/03/22 | |
+| C5366 | [检查网格中是否存在有效路径](https://leetcode-cn.com/contest/weekly-contest-181/problems/check-if-there-is-a-valid-path-in-a-grid/) | [cpp](./contest/C181/Q3/main.cpp) | 中等 | 🎯181 | 20/03/22 | |
+| C5367 | [最长快乐前缀](https://leetcode-cn.com/problems/longest-happy-prefix/) | [cpp](./contest/C181/Q4/main.cpp) | 困难 | 🎯181, ⚠️, 🤔 | 20/03/22 | |
 
 
 ### 经历
