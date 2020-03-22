@@ -104,6 +104,7 @@
 | A0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [cpp](./cpp/A0543/main.cpp) | 简单 | 🤔, ✅ | 20/03/10 |
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [cpp](./cpp/A0557/main.cpp) | 中等 | ✅ | 20/03/15 | 深度优先搜索 |
+| A0945 | [使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [cpp](./cpp/A0945/main.cpp) | 中等 | ✅ | 20/03/22 |
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
 | A0994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [cpp](./cpp/A0994/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/04 | BFS, [官方题解](https://leetcode-cn.com/problems/rotting-oranges/solution/fu-lan-de-ju-zi-by-leetcode-solution/) |
 | A1013 | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [cpp](./cpp/A1013/main.cpp) | 简单 | 🤔, ✅ | 20/03/11 | |
@@ -125,6 +126,7 @@
 | B0010.2 | [II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [cpp](./cpp/B0010.2/main.cpp) | 简单 | 🗡 | 20/03/14 | |
 | B0011 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [cpp](.cpp/B0011/main.cpp) | 简单 | 🗡, 🤔, ⭐️ | 20/03/14 | 二分 |
 | B0040 | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [cpp](./cpp/B0040/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/20 | 排序、堆排序、快排思想 |
+| B0049 | [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [cpp](./cpp/B0049/main.cpp) | 中等 | ⚠️, 🤔, 🗡 | 20/03/22 | 动态规划 |
 | B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](./cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
 | B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](./cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
 | B01.06 | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | [cpp](./cpp/B01.06/main.cpp) | 简单 | ✅ | 20/03/16 | |
