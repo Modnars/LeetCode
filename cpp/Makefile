@@ -5,5 +5,5 @@ d:
 	g++ -Wall -std=c++11 main.cpp -g
 
 clean:
-	-rm ./a.out 
+	-rm -rf ./a.out ./*.dSYM
 	mv ./Makefile ../

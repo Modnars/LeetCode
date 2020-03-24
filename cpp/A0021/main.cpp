@@ -86,7 +86,7 @@ namespace AnsOne {
                 } else {
                     p = p->next; // 否则主链待确定结点变为确定链入主链结点
                 }
-                pre = pre->next;
+                pre = pre->next; // 每轮更新均有一个结点加入，故更新pre
             }
             return ans;
         }
