@@ -132,6 +132,7 @@
 | B0059 | [II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [cpp](./cpp/B0059/main.cpp) | 中等 | 🤔, ✅ | 20/03/07 | [辅助双端队列](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/solution/mian-shi-ti-59-ii-dui-lie-de-zui-da-zhi-by-leetcod/) |
 | B01.06 | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | [cpp](./cpp/B01.06/main.cpp) | 简单 | ✅ | 20/03/16 | |
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](./cpp/B10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
+| B17.16 | [按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [cpp](./cpp/B17.16/main.cpp) | 简单 | 🤔, ✅ | 20/03/24 | [动态规划](https://leetcode-cn.com/problems/the-masseuse-lcci/solution/an-mo-shi-by-leetcode-solution/) |
 
 ### 周赛
 
