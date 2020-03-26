@@ -109,6 +109,7 @@
 | A0945 | [使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [cpp](./cpp/A0945/main.cpp) | 中等 | ✅ | 20/03/22 |
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
 | A0994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [cpp](./cpp/A0994/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/04 | BFS, [官方题解](https://leetcode-cn.com/problems/rotting-oranges/solution/fu-lan-de-ju-zi-by-leetcode-solution/) |
+| A0999 | [车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/) | [cpp](./cpp/A0999/main.cpp) | 简单 | ✅ | 20/03/26 | |
 | A1013 | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [cpp](./cpp/A1013/main.cpp) | 简单 | 🤔, ✅ | 20/03/11 | |
 | A1071 | [字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [cpp](./cpp/A1071/main.cpp) | 简单 | 🤔, ✅ | 20/03/12 | GCD |
 | A1103 | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [cpp](./cpp/A1103/main.cpp) | 简单 | ✅ | 20/03/05 | |
