@@ -41,7 +41,26 @@ private:
 
 /* ************************* */
 
+/**
+ * C++ STL
+ */
+namespace AnsOne {
+    // Time: 4ms(89.60%)  Memory: 7.1MB(100.00%)
+    class Solution {
+    public:
+        std::vector<std::vector<int>> permute(std::vector<int> &nums) {
+            std::vector<std::vector<int>> ans;
+            std::sort(nums.begin(), nums.end());
+            ans.emplace_back(nums);
+            while (std::next_permutation(nums.begin(), nums.end()))
+                ans.emplace_back(nums);
+            return ans;
+        }
+    };
+}
+
 int main(int argc, const char *argv[]) {
+    using Solution = AnsOne::Solution;
     std::vector<int> nums = {1, 2, 3};
     for (const auto &row : (new Solution())->permute(nums)) {
         for (const auto &val : row)
@@ -57,6 +76,12 @@ int main(int argc, const char *argv[]) {
     }
     std::cout << std::endl;
     nums = {0, 1};
+    for (const auto &row : (new Solution())->permute(nums)) {
+        for (const auto &val : row)
+            std::cout << val << " ";
+        std::cout << std::endl;
+    }
+    nums = {0, -1, 1};
     for (const auto &row : (new Solution())->permute(nums)) {
         for (const auto &val : row)
             std::cout << val << " ";

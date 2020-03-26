@@ -46,7 +46,7 @@
 | A0036 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [cpp](./cpp/A0036/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/09 | 数组下标计算 |
 | A0038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [cpp](./cpp/A0038/main.cpp) | 简单 | | 20/03/11 | 0ms |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
-| A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/03 | 回溯算法 |
+| A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/03 | 回溯算法, STL |
 | A0047 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [cpp](./cpp/A0047/main.cpp) | 中等 | 🤔 | 20/03/03 | 回溯 & 剪枝 |
 | A0048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [cpp](./cpp/A0048/main.cpp) | 中等 | 👨‍💻 | 20/03/09 | 数组下标计算 |
 | A0049 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [cpp](./cpp/A0049/main.cpp) | 中等 | 🤔 | 20/03/15 | 哈希散列表 |
