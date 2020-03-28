@@ -106,6 +106,7 @@
 | A0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [cpp](./cpp/A0543/main.cpp) | 简单 | 🤔, ✅ | 20/03/10 |
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [cpp](./cpp/A0557/main.cpp) | 中等 | ✅ | 20/03/15 | 深度优先搜索 |
+| A0820 | [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ⚠️, ❌, 🤔, ✅ | 20/03/28 | Trie树 |
 | A0876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ✅ | 20/03/23 | 快慢指针 |
 | A0892 | [三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [cpp](./cpp/A0892/main.cpp) | 简单 | 🤔, ⭐️, ✅ | 20/03/25 | [题解](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/solution/ji-suan-quan-bu-zhu-ti-mian-ji-zai-jian-qu-xiang-l/) |
 | A0914 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [cpp](./cpp/A0914/main.cpp) | 简单 | ✅ | 20/03/27 |
