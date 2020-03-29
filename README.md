@@ -5,7 +5,7 @@
 | 标记 | 标记涵义 | 标记 | 标记涵义 |
 | ---- | -------- | ---- | -------- |
 |  ❌  | 初次尝试时思路出错 |   ⚠️   | 警告！需要及时复习|
-|  🤔  | 感谢他人的题解思路、需要再回顾思考 |  ⭐️  | 我认为的好题 |
+|  🤔  | 感谢他人的题解思路、需要再回顾思考 |  ⭐️  | 我认为的好题/好代码 |
 |  ✅  | 自2020.03.01开始的打卡活动完成打卡 |  🐧  | 腾讯精选练习50题 |
 |  👨‍💻 | 精选TOP面试题 |  🔥  | 热题HOT 100 |
 |  🗡  | 剑指offer(第二版) |  🚧  | 暂时未完成(TODO) |
@@ -118,6 +118,7 @@
 | A1071 | [字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/) | [cpp](./cpp/A1071/main.cpp) | 简单 | 🤔, ✅ | 20/03/12 | GCD |
 | A1103 | [分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people/) | [cpp](./cpp/A1103/main.cpp) | 简单 | ✅ | 20/03/05 | |
 | A1160 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [cpp](./cpp/A1160/main.cpp) | 简单 | ✅ | 20/03/17 | |
+| A1162 | [地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/) | [cpp](./cpp/A1162/main.cpp) | 中等 | ✅ | 20/03/29 | 多源BFS |
 
 
 ### 面试
@@ -135,6 +136,8 @@
 | B0011 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [cpp](.cpp/B0011/main.cpp) | 简单 | 🗡, 🤔, ⭐️ | 20/03/14 | 二分 |
 | B0015 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [cpp](.cpp/B0015/main.cpp) | 简单 | 🗡 | 20/03/24 | 位运算 |
 | B0017 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [cpp](.cpp/B0017/main.cpp) | 简单 | 🗡 | 20/03/24 | |
+| B0021 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [cpp](.cpp/B0021/main.cpp) | 简单 | 🗡 | 20/03/28 | |
+| B0024 | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [cpp](.cpp/B0024/main.cpp) | 简单 | ⭐️, 🗡 | 20/03/29 | |
 | B0025 | [合并两个有序链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [cpp](.cpp/B0025/main.cpp) | 简单 | 🗡 | 20/03/24 | |
 | B0040 | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [cpp](./cpp/B0040/main.cpp) | 简单 | ⚠️, 🤔, ✅, 🗡 | 20/03/20 | 排序、堆排序、快排思想 |
 | B0049 | [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [cpp](./cpp/B0049/main.cpp) | 中等 | ⚠️, 🤔, 🗡 | 20/03/22 | 动态规划 |
@@ -156,6 +159,10 @@
 | C5187 | [四因数](https://leetcode-cn.com/contest/weekly-contest-181/problems/create-target-array-in-the-given-order/) | [cpp](./contest/C181/Q2/main.cpp) | 中等 | 🎯181 | 20/03/22 | |
 | C5366 | [检查网格中是否存在有效路径](https://leetcode-cn.com/contest/weekly-contest-181/problems/check-if-there-is-a-valid-path-in-a-grid/) | [cpp](./contest/C181/Q3/main.cpp) | 中等 | 🎯181 | 20/03/22 | |
 | C5367 | [最长快乐前缀](https://leetcode-cn.com/problems/longest-happy-prefix/) | [cpp](./contest/C181/Q4/main.cpp) | 困难 | 🎯181, ⚠️, 🤔 | 20/03/22 | |
+| C5368 | [找出数组中的幸运数](https://leetcode-cn.com/contest/weekly-contest-182/problems/find-lucky-integer-in-an-array/) | [cpp](./contest/C182/Q1/main.cpp) | 简单 | 🎯182 | 20/03/29 | |
+| C5369 | [统计作战单位数](https://leetcode-cn.com/contest/weekly-contest-182/problems/count-number-of-teams/) | [cpp](./contest/C182/Q2/main.cpp) | 中等 | 🎯182 | 20/03/29 | 回溯 |
+| C5370 | [设计地铁系统](https://leetcode-cn.com/contest/weekly-contest-182/problems/design-underground-system/) | [cpp](./contest/C182/Q3/main.cpp) | 中等 | 🎯182 | 20/03/29 | |
+| C5370 | [找到所有好字符串](https://leetcode-cn.com/contest/weekly-contest-182/problems/find-all-good-strings/) | [cpp](./contest/C182/Q4/main.cpp) | 困难 | 🎯182, 🚧 | | |
 
 
 ### 经历
@@ -169,3 +176,5 @@
 ## 说明
 
 &#160; &#160; &#160; &#160; 上述列表中的时间为首次在力扣提交并通过的日期，代码中的Date表示初次尝试解题的时间。对于一些标记(比如“✅”)来说，标记获取的日期可能和列表中时间不一致。针对这些不一致的情况，这些标记的具体获取时间会在源代码中标识
+
+&#160; &#160; &#160; &#160; **Copyright 2020 Modnar.**
