@@ -1,6 +1,7 @@
 // URL    : https://leetcode-cn.com/problems/min-stack/
 // Author : Modnar
 // Date   : 2020/02/25
+// Thanks : liweiwei1419(@leetcode.cn)
 
 #include <bits/stdc++.h>
 

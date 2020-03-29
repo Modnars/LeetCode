@@ -43,6 +43,7 @@
 | A0028 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [cpp](./cpp/A0028/main.cpp) | 简单 | 👨‍💻 | | 字符串匹配 |
 | A0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](./cpp/A0033/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/03/01 |
 | A0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](./cpp/A0034/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/06 | 二分搜索改进 |
+| A0035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [cpp](./cpp/A0035/main.cpp) | 简单 | | 20/03/29 | 二分搜索改进, STL |
 | A0036 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [cpp](./cpp/A0036/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/09 | 数组下标计算 |
 | A0038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [cpp](./cpp/A0038/main.cpp) | 简单 | | 20/03/11 | 0ms |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
@@ -78,7 +79,7 @@
 | A0148 | [排序链表](https://leetcode-cn.com/problems/sort-list/) | [cpp](./cpp/A0148/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧, 👨‍💻 | 20/02/28 | |
 | A0153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | [cpp](./cpp/A0153/main.cpp) | 中等 | ⚠️, 🤔, ⭐️ | 20/03/14 | 二分 |
 | A0154 | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | [cpp](./cpp/A0154/main.cpp) | 困难 | ⚠️, 🤔, ⭐️ | 20/03/14 | 二分 |
-| A0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [cpp](./cpp/A0155/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | 辅助栈 |
+| A0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [cpp](./cpp/A0155/main.cpp) | 简单 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/25 | 辅助栈 |
 | A0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [cpp](./cpp/A0160/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | 双指针求双链表公共结点 |
 | A0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [cpp](./cpp/A0167/main.cpp) | 简单 | | 20/02/20 |
 | A0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [cpp](./cpp/A0169/main.cpp) | 简单 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/25 | Boyer-Moore投票法 |
@@ -137,8 +138,11 @@
 | B0015 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [cpp](.cpp/B0015/main.cpp) | 简单 | 🗡 | 20/03/24 | 位运算 |
 | B0017 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [cpp](.cpp/B0017/main.cpp) | 简单 | 🗡 | 20/03/24 | |
 | B0021 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [cpp](.cpp/B0021/main.cpp) | 简单 | 🗡 | 20/03/28 | |
+| B0022 | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/submissions/) | [cpp](.cpp/B0022/main.cpp) | 简单 | 🗡 | 20/03/29 | 快慢指针 |
 | B0024 | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [cpp](.cpp/B0024/main.cpp) | 简单 | ⭐️, 🗡 | 20/03/29 | |
 | B0025 | [合并两个有序链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [cpp](.cpp/B0025/main.cpp) | 简单 | 🗡 | 20/03/24 | |
+| B0030 | [包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [cpp](.cpp/B0030/main.cpp) | 简单 | 🗡 | 20/03/29 | 辅助栈 |
+| B0039 | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [cpp](.cpp/B0039/main.cpp) | 简单 | 🗡 | 20/03/29 | Boyer-Moore投票法 |
 | B0040 | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [cpp](./cpp/B0040/main.cpp) | 简单 | ⚠️, 🤔, ✅, 🗡 | 20/03/20 | 排序、堆排序、快排思想 |
 | B0049 | [丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | [cpp](./cpp/B0049/main.cpp) | 中等 | ⚠️, 🤔, 🗡 | 20/03/22 | 动态规划 |
 | B0057 | [II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [cpp](./cpp/B0057/main.cpp) | 简单 | ❌, 🤔, ✅ | 20/03/06 | [双指针](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/solution/mian-shi-ti-57-ii-he-wei-sde-lian-xu-zheng-shu-x-2/) |
@@ -162,7 +166,7 @@
 | C5368 | [找出数组中的幸运数](https://leetcode-cn.com/contest/weekly-contest-182/problems/find-lucky-integer-in-an-array/) | [cpp](./contest/C182/Q1/main.cpp) | 简单 | 🎯182 | 20/03/29 | |
 | C5369 | [统计作战单位数](https://leetcode-cn.com/contest/weekly-contest-182/problems/count-number-of-teams/) | [cpp](./contest/C182/Q2/main.cpp) | 中等 | 🎯182 | 20/03/29 | 回溯 |
 | C5370 | [设计地铁系统](https://leetcode-cn.com/contest/weekly-contest-182/problems/design-underground-system/) | [cpp](./contest/C182/Q3/main.cpp) | 中等 | 🎯182 | 20/03/29 | |
-| C5370 | [找到所有好字符串](https://leetcode-cn.com/contest/weekly-contest-182/problems/find-all-good-strings/) | [cpp](./contest/C182/Q4/main.cpp) | 困难 | 🎯182, 🚧 | | |
+| C5371 | [找到所有好字符串](https://leetcode-cn.com/contest/weekly-contest-182/problems/find-all-good-strings/) | [cpp](./contest/C182/Q4/main.cpp) | 困难 | 🎯182, 🚧 | | |
 
 
 ### 经历
