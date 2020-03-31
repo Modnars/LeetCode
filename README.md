@@ -178,6 +178,8 @@
 | 华为机试题 | [旋转N阶方阵](./experience/HUAWEI/OperatingExam/Q1/README.md) | [cpp](./experience/HUAWEI/OperatingExam/Q1/main.cpp) | 华为 | 20/03/04 | 格式化输出 |
 | 华为机试题 | [礼物分法](./experience/HUAWEI/OperatingExam/Q2/README.md) | [cpp](./experience/HUAWEI/OperatingExam/Q2/main.cpp) | 华为 | 20/03/04 | 回溯 |
 | 华为机试题 | [排版校对](./experience/HUAWEI/OperatingExam/Q3/README.md) | [cpp](./experience/HUAWEI/OperatingExam/Q3/main.cpp) | 华为 | 20/03/04 | 动态规划 |
+| 腾讯面试题 | [键值对排序](./experience/Tencent/README.md) | [cpp](./experience/Tencent/Q1/main.cpp) | 腾讯 | 20/03/31 | Lambda |
+| 腾讯面试题 | [相邻升序/相邻降序输出](./experience/Tencent/README.md) | [cpp](./experience/Tencent/Q2/main.cpp) | 腾讯 | 20/03/31 | 滑动窗口 |
 
 ## 说明
 
