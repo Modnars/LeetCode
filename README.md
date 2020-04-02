@@ -96,6 +96,7 @@
 | A0237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [cpp](./cpp/A0237/main.cpp) | 简单 | ⭐️, 🐧, 👨‍💻 | 20/02/23 | |
 | A0238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [cpp](./cpp/A0238/main.cpp) | 中等 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/26 | 乘积列表 |
 | A0260 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [cpp](./cpp/A0260/main.cpp) | 中等 | | 20/02/25 | 位运算 |
+| A0289 | [生命游戏](https://leetcode-cn.com/problems/game-of-life/) | [cpp](./cpp/A0289/main.cpp) | 中等 | 🤔, ✅ | 20/04/02 | 添加复合状态 |
 | A0292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) | [cpp](./cpp/A0292/main.cpp) | 简单 | | 20/02/23 |
 | A0300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [cpp](./cpp/A0300/main.cpp) | 中等 | 🤔, ✅ | 20/03/13 | 动态规划、贪心+二分 |
 | A0319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/) | [cpp](./cpp/A0319/main.cpp) | 中等 | 🤔, ✅ | 20/03/11 | 思维 |
