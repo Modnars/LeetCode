@@ -2,6 +2,8 @@
 // Author : Modnar
 // Date   : 2020/02/21
 
+// ✅ : 2020/04/03
+
 #include <bits/stdc++.h>
 
 /* ************************* */
@@ -12,6 +14,7 @@
  * 值和INT_MAX及INT_MIN进行比较判断即可。
  */
 // Time: 8ms(54.66%)  Memory: 8.5MB(25.88%)
+// Time: 4ms(85.86%)  Memory: 6.2MB(100.00%) 2020.04.03
 class Solution {
 public:
     int myAtoi(std::string str) {
