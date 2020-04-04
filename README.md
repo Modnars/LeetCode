@@ -46,6 +46,7 @@
 | A0035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [cpp](./cpp/A0035/main.cpp) | 简单 | | 20/03/29 | 二分搜索改进, STL |
 | A0036 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/) | [cpp](./cpp/A0036/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/09 | 数组下标计算 |
 | A0038 | [外观数列](https://leetcode-cn.com/problems/count-and-say/) | [cpp](./cpp/A0038/main.cpp) | 简单 | | 20/03/11 | 0ms |
+| A0042 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [cpp](./cpp/A0042/main.cpp) | 困难 | ⚠️, 🤔, ✅ | 20/04/04 | 栈的应用 |
 | A0043 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [cpp](./cpp/A0043/main.cpp) | 中等 | ⚠️, 🤔, 🐧 | 20/03/01 |
 | A0046 | [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](./cpp/A0046/main.cpp) | 中等 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/03 | 回溯算法, STL |
 | A0047 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [cpp](./cpp/A0047/main.cpp) | 中等 | 🤔 | 20/03/03 | 回溯 & 剪枝 |
