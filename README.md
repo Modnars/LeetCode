@@ -60,6 +60,7 @@
 | A0062 | [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [cpp](./cpp/A0062/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/29 |
 | A0069 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/) | [cpp](./cpp/A0069/main.cpp) | 简单 | 🤔, 👨‍💻 | 20/03/12 |
 | A0070 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [cpp](./cpp/A0070/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/22 |
+| A0072 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [cpp](./cpp/A0072/main.cpp) | 困难 | ✅ | 20/04/06 | 动态规划 |
 | A0073 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [cpp](./cpp/A0073/main.cpp) | 中等 | ⚠️, 🤔, 👨‍💻 | 20/03/06 |
 | A0078 | [子集](https://leetcode-cn.com/problems/subsets/) | [cpp](./cpp/A0078/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/26 |
 | A0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [cpp](./cpp/A0088/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
