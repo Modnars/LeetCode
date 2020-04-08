@@ -141,6 +141,7 @@
 | B0010.1 | [I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [cpp](./cpp/B0010.1/main.cpp) | 简单 | 🗡 | 20/03/13 | |
 | B0010.2 | [II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [cpp](./cpp/B0010.2/main.cpp) | 简单 | 🗡 | 20/03/14 | |
 | B0011 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [cpp](.cpp/B0011/main.cpp) | 简单 | 🗡, 🤔, ⭐️ | 20/03/14 | 二分 |
+| B0013 | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [cpp](.cpp/B0013/main.cpp) | 中等 | 🚧, ⚠️, 🤔, ✅ | | BFS |
 | B0015 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [cpp](.cpp/B0015/main.cpp) | 简单 | 🗡 | 20/03/24 | 位运算 |
 | B0017 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [cpp](.cpp/B0017/main.cpp) | 简单 | 🗡 | 20/03/24 | |
 | B0021 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [cpp](.cpp/B0021/main.cpp) | 简单 | 🗡 | 20/03/28 | |
