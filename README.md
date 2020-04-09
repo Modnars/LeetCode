@@ -36,6 +36,7 @@
 | A0019 | [删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [cpp](./cpp/A0019/main.cpp) | 中等 | 👨‍💻 | 20/03/05 | 阅读题解(TODO) |
 | A0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [cpp](./cpp/A0020/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/21 |
 | A0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [cpp](./cpp/A0021/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/21 |
+| A0022 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [cpp](./cpp/A0022/main.cpp) | 中等 | ❌, ⚠️, 🤔, ✅ | 20/04/09 | 回溯 |
 | A0023 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](./cpp/A0023/main.cpp) | 困难 | 🐧, 🔥, 👨‍💻 | 20/02/21 |
 | A0024 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [cpp](./cpp/A0024/main.cpp) | 中等 | | 20/03/07 |
 | A0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./cpp/A0026/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
@@ -141,7 +142,7 @@
 | B0010.1 | [I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [cpp](./cpp/B0010.1/main.cpp) | 简单 | 🗡 | 20/03/13 | |
 | B0010.2 | [II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [cpp](./cpp/B0010.2/main.cpp) | 简单 | 🗡 | 20/03/14 | |
 | B0011 | [旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [cpp](.cpp/B0011/main.cpp) | 简单 | 🗡, 🤔, ⭐️ | 20/03/14 | 二分 |
-| B0013 | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [cpp](.cpp/B0013/main.cpp) | 中等 | 🚧, ⚠️, 🤔, ✅ | | BFS |
+| B0013 | [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [cpp](.cpp/B0013/main.cpp) | 中等 | ❌, 🚧, ⚠️, 🤔, ✅ | 20/04/08 | BFS |
 | B0015 | [二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [cpp](.cpp/B0015/main.cpp) | 简单 | 🗡 | 20/03/24 | 位运算 |
 | B0017 | [打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [cpp](.cpp/B0017/main.cpp) | 简单 | 🗡 | 20/03/24 | |
 | B0021 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [cpp](.cpp/B0021/main.cpp) | 简单 | 🗡 | 20/03/28 | |
