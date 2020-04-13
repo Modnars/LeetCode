@@ -115,6 +115,7 @@
 | A0695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [cpp](./cpp/A0557/main.cpp) | 中等 | ✅ | 20/03/15 | 深度优先搜索 |
 | A0820 | [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ⚠️, ❌, 🤔, ✅ | 20/03/28 | Trie树 |
 | A0876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ✅ | 20/03/23 | 快慢指针 |
+| A0887 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/) | [cpp](./cpp/A0887/main.cpp) | 困难 | 🚧, ⚠️, 🤔, ✅ | 20/04/11 | |
 | A0892 | [三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [cpp](./cpp/A0892/main.cpp) | 简单 | 🤔, ⭐️, ✅ | 20/03/25 | [题解](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/solution/ji-suan-quan-bu-zhu-ti-mian-ji-zai-jian-qu-xiang-l/) |
 | A0912 | [排序数组](https://leetcode-cn.com/problems/sort-an-array/) | [cpp](./cpp/A0912/main.cpp) | 中等 | ⭐️, ✅ | 20/03/31 |
 | A0914 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [cpp](./cpp/A0914/main.cpp) | 简单 | ✅ | 20/03/27 |
@@ -160,6 +161,7 @@
 | B01.06 | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | [cpp](./cpp/B01.06/main.cpp) | 简单 | ✅ | 20/03/16 | |
 | B01.07 | [旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | [cpp](./cpp/B01.07/main.cpp) | 中等 | ✅ | 20/04/07 | |
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](./cpp/B10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
+| B16.03 | [交点](https://leetcode-cn.com/problems/intersection-lcci/) | [cpp](./cpp/B16.03/main.cpp) | 困难 | 🚧, ⚠️, 🤔, ✅ | 20/04/12 | |
 | B17.16 | [按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [cpp](./cpp/B17.16/main.cpp) | 简单 | 🤔, ✅ | 20/03/24 | [动态规划](https://leetcode-cn.com/problems/the-masseuse-lcci/solution/an-mo-shi-by-leetcode-solution/) |
 
 ### 周赛
