@@ -26,7 +26,7 @@
 | A0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [cpp](./cpp/A0008/main.cpp) | 中等 | 🐧, 👨‍💻 | 20/03/03 | 整数溢出判断 |
 | A0009 | [回文数](https://leetcode-cn.com/problems/palindrome-number/) | [cpp](./cpp/A0009/main.cpp) | 简单 | 🐧 | 20/02/21 |
 | A0010 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/) | [cpp](./cpp/A0010/main.cpp) | 困难 | 🚧 | |
-| A0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](./cpp/A0011/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/23 |
+| A0011 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](./cpp/A0011/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻, ✅ | 20/02/23 |
 | A0012 | [整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/) | [cpp](./cpp/A0012/main.cpp) | 中等 | | 20/02/23 |
 | A0013 | [罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/) | [cpp](./cpp/A0013/main.cpp) | 简单 | 👨‍💻 | 20/02/23 |
 | A0014 | [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/) | [cpp](./cpp/A0014/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 |
@@ -55,6 +55,7 @@
 | A0049 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [cpp](./cpp/A0049/main.cpp) | 中等 | 🤔 | 20/03/15 | 哈希散列表 |
 | A0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [cpp](./cpp/A0053/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/26 | 贪心&分治 |
 | A0054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [cpp](./cpp/A0054/main.cpp) | 中等 | 🐧, 👨‍💻 | 20/02/25 |
+| A0055 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [cpp](./cpp/A0055/main.cpp) | 中等 | ❌, 🤔, ⚠️, ✅ | 20/04/18 | 贪心 |
 | A0058 | [最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/) | [cpp](./cpp/A0058/main.cpp) | 简单 | | 20/03/16 |
 | A0059 | [螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | [cpp](./cpp/A0059/main.cpp) | 中等 | 🐧 | 20/02/29 |
 | A0061 | [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [cpp](./cpp/A0061/main.cpp) | 中等 | 🐧 | 20/02/29 |
