@@ -2,6 +2,8 @@
 // Author : Modnar
 // Date   : 2020/02/23
 
+// ✅ : 2020/04/18
+
 #include <bits/stdc++.h>
 
 /* ************************* */
@@ -60,8 +62,29 @@ namespace AnsOne {
     };
 }
 
+// ✅
+// Time: 12ms(97.86%)  Memory: 7.6MB(100.00%)
+namespace AnsTwo {
+    class Solution {
+    public:
+        int maxArea(std::vector<int> &height) {
+            int i = 0, j = height.size() - 1, ans = 0;
+            while (i < j) {
+                int area = std::min(height[i], height[j]) * (j - i);
+                if (ans < area)
+                    ans = area;
+                if (height[i] < height[j])
+                    ++i;
+                else
+                    --j;
+            }
+            return ans;
+        }
+    };
+}
+
 int main(int argc, const char *argv[]) {
-    using Solution = AnsOne::Solution;
+    using Solution = AnsTwo::Solution;
     std::vector<int> height = {1, 8, 6, 2, 5, 4, 8, 3, 7};
     std::cout << (new Solution())->maxArea(height) << std::endl;
     // Ans: 49
