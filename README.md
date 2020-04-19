@@ -110,6 +110,7 @@
 | A0365 | [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/) | [cpp](./cpp/A0365/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/03/21 |
 | A0409 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/) | [cpp](./cpp/A0540/main.cpp) | 简单 | | 20/03/19 |
 | A0460 | [LFU缓存](https://leetcode-cn.com/problems/lfu-cache/) | [cpp](./cpp/A0460/main.cpp) | 困难 | ⚠️, 🤔, 🚧, ✅ | |
+| A0466 | [统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/) | [cpp](./cpp/A0466/main.cpp) | 困难 | 🚧, ⚠️, 🤔, ✅ | 20/04/19 |
 | A0540 | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [cpp](./cpp/A0540/main.cpp) | 中等 | | 20/03/06 |
 | A0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [cpp](./cpp/A0543/main.cpp) | 简单 | 🤔, ✅ | 20/03/10 |
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
