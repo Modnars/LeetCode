@@ -132,6 +132,7 @@
 | A1111 | [有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | [cpp](./cpp/A1111/main.cpp) | 中等 | ✅ | 20/04/01 | 模拟栈 |
 | A1160 | [拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters/) | [cpp](./cpp/A1160/main.cpp) | 简单 | ✅ | 20/03/17 | |
 | A1162 | [地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible/) | [cpp](./cpp/A1162/main.cpp) | 中等 | ✅ | 20/03/29 | 多源BFS |
+| A1248 | [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [cpp](./cpp/A1248/main.cpp) | 中等 | ❌, 🤔, ⚠️, ✅ | 20/04/21 | |
 
 
 ### 面试
