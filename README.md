@@ -165,6 +165,7 @@
 | B0062 | [圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [cpp](./cpp/B0062/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/30 | 约瑟夫环 |
 | B01.06 | [字符串压缩](https://leetcode-cn.com/problems/compress-string-lcci/) | [cpp](./cpp/B01.06/main.cpp) | 简单 | ✅ | 20/03/16 | |
 | B01.07 | [旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci/) | [cpp](./cpp/B01.07/main.cpp) | 中等 | ✅ | 20/04/07 | |
+| B08.11 | [硬币](https://leetcode-cn.com/problems/coin-lcci/) | [cpp](./cpp/B08.11/main.cpp) | 中等 | ❌, 🚧, ⚠️, 🤔, ✅ | 20/04/22 | 动态规划/数学 |
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](./cpp/B10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
 | B16.03 | [交点](https://leetcode-cn.com/problems/intersection-lcci/) | [cpp](./cpp/B16.03/main.cpp) | 困难 | 🚧, ⚠️, 🤔, ✅ | 20/04/12 | |
 | B17.16 | [按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [cpp](./cpp/B17.16/main.cpp) | 简单 | 🤔, ✅ | 20/03/24 | [动态规划](https://leetcode-cn.com/problems/the-masseuse-lcci/solution/an-mo-shi-by-leetcode-solution/) |
