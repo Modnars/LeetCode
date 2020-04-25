@@ -3,6 +3,8 @@
 // Date   : 2020/02/29
 // Thanks : liweiwei1419(@leetcode.cn)
 
+// ✅ : 2020/04/25
+
 #include <bits/stdc++.h>
 
 /* ************************* */
@@ -45,7 +47,7 @@ private:
  * C++ STL
  */
 namespace AnsOne {
-    // Time: 4ms(89.60%)  Memory: 7.1MB(100.00%)
+    // Time: 0ms(100.00%)  Memory: 7.2MB(100.00%)
     class Solution {
     public:
         std::vector<std::vector<int>> permute(std::vector<int> &nums) {
