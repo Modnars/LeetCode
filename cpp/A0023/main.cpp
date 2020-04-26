@@ -2,6 +2,8 @@
 // Author : Modnar
 // Date   : 2020/02/21
 
+// ✅ : 2020/04/26
+
 #include <iostream>
 #include <climits>
 #include <vector>
@@ -35,7 +37,7 @@ void print(ListNode *);
  *
  * 注: 上述数组是指vector，即代码中的lists。
  */
-// Time: 452ms  Memory: 14MB
+// Time: 1144ms(5.07%)  Memory: 10.2MB(100.00%)
 class Solution {
 public:
     ListNode *mergeKLists(std::vector<ListNode *> &lists) {
@@ -44,7 +46,7 @@ public:
         bool hasNode = true;
         while (hasNode) {
             hasNode = false;
-            p = ans;
+            p = ans; // 令p始终指向最大的可能值
             for (std::vector<ListNode *>::size_type i = 0; i != lists.size(); ++i)
                 if (lists[i] && lists[i]->val < p->val) {
                     idx = i;        // 记录val最小的结点所在lists中位置

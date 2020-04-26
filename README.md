@@ -37,7 +37,7 @@
 | A0020 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses/) | [cpp](./cpp/A0020/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/21 |
 | A0021 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [cpp](./cpp/A0021/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/21 |
 | A0022 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [cpp](./cpp/A0022/main.cpp) | 中等 | ❌, ⚠️, 🤔, ✅ | 20/04/09 | 回溯 |
-| A0023 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](./cpp/A0023/main.cpp) | 困难 | 🐧, 🔥, 👨‍💻 | 20/02/21 |
+| A0023 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](./cpp/A0023/main.cpp) | 困难 | 🐧, 🔥, 👨‍💻, ✅ | 20/02/21 |
 | A0024 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [cpp](./cpp/A0024/main.cpp) | 中等 | | 20/03/07 |
 | A0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./cpp/A0026/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
 | A0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [cpp](./cpp/A0027/main.cpp) | 简单 | | 20/03/01 | 双指针法 |
