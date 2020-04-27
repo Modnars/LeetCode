@@ -3,6 +3,8 @@
 // Date   : 2020/02/29
 // Thanks : LeetCode(@leetcode.cn)
 
+// ✅ : 2020/04/27
+
 #include <bits/stdc++.h>
 
 /* ************************* */
@@ -59,7 +61,7 @@ private:
 namespace AnsOne {
     // Thanks: LeetCode(@leetcode.cn)
     // Complexity: Time: O(logn) Space: O(1)
-    // Time: 13.5MB(89.70%)  Memory: 13.5MB(5.14%)
+    // Time: 4ms(80.04%)  Memory: 6.4MB(100.00%)
     class Solution {
     public:
         int search(std::vector<int> &nums, int target) {
