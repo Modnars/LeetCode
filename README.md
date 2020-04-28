@@ -170,6 +170,7 @@
 | B10.01 | [合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [cpp](./cpp/B10.01/main.cpp) | 简单 | ✅ | 20/03/03 | [双指针(从后向前)](https://leetcode-cn.com/problems/sorted-merge-lcci/solution/shuang-zhi-zhen-cong-hou-xiang-qian-by-modnars/) |
 | B16.03 | [交点](https://leetcode-cn.com/problems/intersection-lcci/) | [cpp](./cpp/B16.03/main.cpp) | 困难 | 🚧, ⚠️, 🤔, ✅ | 20/04/12 | |
 | B17.16 | [按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [cpp](./cpp/B17.16/main.cpp) | 简单 | 🤔, ✅ | 20/03/24 | [动态规划](https://leetcode-cn.com/problems/the-masseuse-lcci/solution/an-mo-shi-by-leetcode-solution/) |
+| B56.01 | [数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [cpp](./cpp/B56.01/main.cpp) | 中等 | ✅ | 20/04/28 | 位运算 |
 
 ### 周赛
 
