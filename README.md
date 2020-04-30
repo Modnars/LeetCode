@@ -90,6 +90,7 @@
 | A0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [cpp](./cpp/A0169/main.cpp) | 简单 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/25 | Boyer-Moore投票法 |
 | A0199 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [cpp](./cpp/A0199/main.cpp) | 中等 | ⚠️, 🤔, 🚧 | 20/04/22 | |
 | A0200 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [cpp](./cpp/A0200/main.cpp) | 中等 | ❌, ⚠️, 🤔, ✅ | 20/04/20 | DFS/BFS/并查集 |
+| A0202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [cpp](./cpp/A0202/main.cpp) | 简单 | ✅ | 20/04/30 | 数学 |
 | A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | ✅, 🐧, 🔥, 👨‍💻 | 20/02/25 | [C++迭代](https://leetcode-cn.com/problems/reverse-linked-list/solution/c-die-dai-by-modnars/) 递归&迭代 |
 | A0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [cpp](./cpp/A0215/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧, 👨‍💻 | 20/02/27 | |
 | A0217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [cpp](./cpp/A0217/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 | |
