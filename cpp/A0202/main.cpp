@@ -9,6 +9,7 @@
 /**
  * 使用一个Set来存储计算过的数字。当发现Set中已经出现过该数字，判断该数字是否为1即可。
  */
+// Time: 4ms(67.79%)  Memory: 6.2MB(100.00%)
 class Solution {
 public:
     bool isHappy(int n) {
