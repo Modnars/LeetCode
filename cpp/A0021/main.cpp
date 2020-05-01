@@ -2,6 +2,8 @@
 // Author : Modnar
 // Date   : 2020/02/21
 
+// ✅ : 2020/05/01
+
 #include <iostream>
 
 // Definition for singly-linked list.
@@ -46,7 +48,7 @@ public:
 
 /* ************************* */
 
-// Time: 8ms  Memory: 16.8MB
+// Time: 12ms(42.83%)  Memory: 7MB(100.00%)
 namespace AnsOne {
     /**
      *     为了减少空间开销，可以将链表q的结点拆解并链入链表p上，这里的p和q是根据l1和
