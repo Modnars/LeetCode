@@ -3,6 +3,8 @@
 // Date   : 2020/02/20
 // Thanks : Hao Chen(@github.com) LeetCode(@leetcode.cn)
 
+// ✅ : 2020/05/02
+
 #include <bits/stdc++.h>
 
 /* ************************* */
@@ -12,7 +14,7 @@ namespace {
 }
 
 // 使用std::vector来存储位置
-// Time: 12ms  Memory: 10.7MB
+// Time: 8ms(93.00%)  Memory: 8.2MB(100.00%)
 class Solution {
 public:
     int lengthOfLongestSubstring(const std::string &s) {
