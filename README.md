@@ -69,7 +69,7 @@
 | A0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [cpp](./cpp/A0088/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
 | A0089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [cpp](./cpp/A0089/main.cpp) | 中等 | 🤔, 🐧 | 20/02/24 | 格雷编码 |
 | A0094 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [cpp](./cpp/A0094/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/09 | 递归 & 迭代 |
-| A0098 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [cpp](./cpp/A0098/main.cpp) | 中等 | 🤔 | 20/03/26 | 递归 & 迭代 |
+| A0098 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [cpp](./cpp/A0098/main.cpp) | 中等 | 🤔, ✅ | 20/03/26 | 递归 & 迭代 |
 | A0100 | [相同的树](https://leetcode-cn.com/problems/same-tree/) | [cpp](./cpp/A0100/main.cpp) | 简单 | 🤔, ⭐️ | 20/03/26 | 层序遍历(两个队列), 深度优先搜索 |
 | A0104 | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [cpp](./cpp/A0104/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/03/10 | 递归 & 迭代 |
 | A0111 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [cpp](./cpp/A0111/main.cpp) | 简单 | | 20/02/23 | 递归 |
