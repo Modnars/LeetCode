@@ -127,6 +127,7 @@
 | A0914 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [cpp](./cpp/A0914/main.cpp) | 简单 | ✅ | 20/03/27 |
 | A0945 | [使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [cpp](./cpp/A0945/main.cpp) | 中等 | ✅ | 20/03/22 |
 | A0977 | [有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/) | [cpp](./cpp/A0977/main.cpp) | 简单 | | 20/02/22 |
+| A0983 | [最低票价](https://leetcode-cn.com/problems/minimum-cost-for-tickets/) | [cpp](./cpp/A0983/main.cpp) | 中等 | ⚠️, 🚧, 🤔, ✅ | 20/05/06 | 动态规划 |
 | A0994 | [腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges/) | [cpp](./cpp/A0994/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/03/04 | BFS, [官方题解](https://leetcode-cn.com/problems/rotting-oranges/solution/fu-lan-de-ju-zi-by-leetcode-solution/) |
 | A0999 | [车的可用捕获量](https://leetcode-cn.com/problems/available-captures-for-rook/) | [cpp](./cpp/A0999/main.cpp) | 简单 | ✅ | 20/03/26 | |
 | A1013 | [将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/) | [cpp](./cpp/A1013/main.cpp) | 简单 | 🤔, ✅ | 20/03/11 | |
