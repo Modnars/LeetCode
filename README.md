@@ -95,6 +95,7 @@
 | A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | ✅, 🐧, 🔥, 👨‍💻 | 20/02/25 | [C++迭代](https://leetcode-cn.com/problems/reverse-linked-list/solution/c-die-dai-by-modnars/) 递归&迭代 |
 | A0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [cpp](./cpp/A0215/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧, 👨‍💻 | 20/02/27 | |
 | A0217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [cpp](./cpp/A0217/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 | |
+| A0221 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) | [cpp](./cpp/A0221/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/05/08 | 动态规划 |
 | A0225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/) | [cpp](./cpp/A0225/main.cpp) | 简单 | ✅ | 20/03/01 | [题解](https://leetcode-cn.com/problems/implement-stack-using-queues/solution/c-time-0ms10000-memory-95mb509-by-modnars/) |
 | A0229 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) | [cpp](./cpp/A0229/main.cpp) | 中等 | 🤔 | 20/02/23 | Boyer-Moore投票法 |
 | A0230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [cpp](./cpp/A0230/main.cpp) | 中等 | 🤔, 🐧, 👨‍💻 | 20/02/26 | 递归&迭代 |
