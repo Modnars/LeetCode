@@ -2,6 +2,8 @@
 // Author : Modnar
 // Date   : 2020/03/12
 
+// ✅ : 2020/05/09
+
 #include <bits/stdc++.h>
 
 /* ************************* */
@@ -17,6 +19,7 @@ public:
 /* ************************* */
 
 namespace AnsOne {
+    // Time: 16ms(15.36%)  Memory: 5.8MB(100.00%)
     class Solution {
     public:
         int mySqrt(int x) {
