@@ -102,7 +102,7 @@
 | A0231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/solution/2de-mi-by-leetcode/) | [cpp](./cpp/A0231/main.cpp) | 简单 | 🤔, 🐧 | 20/02/23 | 位运算 |
 | A0234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [cpp](./cpp/A0234/main.cpp) | 简单 | 🤔, 🔥, 👨‍💻 | 20/02/21 |
 | A0235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [cpp](./cpp/A0235/main.cpp) | 简单 | 🤔, 🐧 | 20/02/25 | 递归&迭代 |
-| A0236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [cpp](./cpp/A0236/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧, 👨‍💻 | 20/02/28 | 递归&迭代 |
+| A0236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [cpp](./cpp/A0236/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧, 👨‍💻, ✅ | 20/02/28 | 递归&迭代 |
 | A0237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) | [cpp](./cpp/A0237/main.cpp) | 简单 | ⭐️, 🐧, 👨‍💻 | 20/02/23 | |
 | A0238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [cpp](./cpp/A0238/main.cpp) | 中等 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/26 | 乘积列表 |
 | A0260 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/) | [cpp](./cpp/A0260/main.cpp) | 中等 | | 20/02/25 | 位运算 |
