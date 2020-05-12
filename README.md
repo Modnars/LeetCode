@@ -54,6 +54,7 @@
 | A0047 | [全排列 II](https://leetcode-cn.com/problems/permutations-ii/) | [cpp](./cpp/A0047/main.cpp) | 中等 | 🤔 | 20/03/03 | 回溯 & 剪枝 |
 | A0048 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [cpp](./cpp/A0048/main.cpp) | 中等 | 👨‍💻 | 20/03/09 | 数组下标计算 |
 | A0049 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [cpp](./cpp/A0049/main.cpp) | 中等 | 🤔 | 20/03/15 | 哈希散列表 |
+| A0050 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [cpp](./cpp/A0050/main.cpp) | 中等 | 🤔, ⚠️, ✅ | 20/05/11 | 快速幂 |
 | A0053 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [cpp](./cpp/A0053/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻, ✅ | 20/02/26 | 贪心&分治 |
 | A0054 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [cpp](./cpp/A0054/main.cpp) | 中等 | 🐧, 👨‍💻 | 20/02/25 |
 | A0055 | [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [cpp](./cpp/A0055/main.cpp) | 中等 | ❌, 🤔, ⚠️, ✅ | 20/04/18 | 贪心 |
@@ -85,7 +86,7 @@
 | A0151 | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [cpp](./cpp/A0151/main.cpp) | 中等 | ✅, ⭐️ | 20/04/10 | |
 | A0153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | [cpp](./cpp/A0153/main.cpp) | 中等 | ⚠️, 🤔, ⭐️ | 20/03/14 | 二分 |
 | A0154 | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | [cpp](./cpp/A0154/main.cpp) | 困难 | ⚠️, 🤔, ⭐️ | 20/03/14 | 二分 |
-| A0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [cpp](./cpp/A0155/main.cpp) | 简单 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/25 | 辅助栈 |
+| A0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [cpp](./cpp/A0155/main.cpp) | 简单 | 🤔, 🐧, 🔥, 👨‍💻, ✅ | 20/02/25 | 辅助栈 |
 | A0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [cpp](./cpp/A0160/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | 双指针求双链表公共结点 |
 | A0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [cpp](./cpp/A0167/main.cpp) | 简单 | | 20/02/20 |
 | A0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [cpp](./cpp/A0169/main.cpp) | 简单 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/25 | Boyer-Moore投票法 |
