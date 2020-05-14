@@ -78,7 +78,7 @@
 | A0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [cpp](./cpp/A0121/main.cpp) | 简单 | ✅, 🐧, 🔥, 👨‍💻 | 20/02/25 | |
 | A0122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [cpp](./cpp/A0122/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/25 | |
 | A0124 | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | [cpp](./cpp/A0124/main.cpp) | 困难 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/01 | |
-| A0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [cpp](./cpp/A0136/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | 位异或运算 |
+| A0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [cpp](./cpp/A0136/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻, ✅ | 20/02/25 | 位异或运算 |
 | A0137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) | [cpp](./cpp/A0137/main.cpp) | 中等 | 🤔, ⭐️ | 20/02/25 | 位运算 |
 | A0141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [cpp](./cpp/A0141/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | 快慢指针 |
 | A0142 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [cpp](./cpp/A0142/main.cpp) | 中等 | 🤔, 🐧, 🔥 | 20/02/28 | 快慢指针 |
