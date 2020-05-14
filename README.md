@@ -42,6 +42,7 @@
 | A0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./cpp/A0026/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
 | A0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [cpp](./cpp/A0027/main.cpp) | 简单 | | 20/03/01 | 双指针法 |
 | A0028 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [cpp](./cpp/A0028/main.cpp) | 简单 | 👨‍💻 | | 字符串匹配 |
+| A0031 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/) | [cpp](./cpp/A0031/main.cpp) | 中等 | 🚧, ✅ | 20/05/14 | STL |
 | A0033 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](./cpp/A0033/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻, ✅ | 20/03/01 |
 | A0034 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](./cpp/A0034/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/06 | 二分搜索改进 |
 | A0035 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/) | [cpp](./cpp/A0035/main.cpp) | 简单 | | 20/03/29 | 二分搜索改进, STL |
