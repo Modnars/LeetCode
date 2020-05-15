@@ -122,6 +122,7 @@
 | A0540 | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [cpp](./cpp/A0540/main.cpp) | 中等 | | 20/03/06 |
 | A0543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [cpp](./cpp/A0543/main.cpp) | 简单 | 🤔, ✅ | 20/03/10 |
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
+| A0560 | [和为K的数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [cpp](./cpp/A0560/main.cpp) | 中等 | 🚧, ⚠️, 🤔, ✅ | 20/05/15 | 前缀和 |
 | A0572 | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [cpp](./cpp/A0572/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/05/07 |
 | A0695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [cpp](./cpp/A0557/main.cpp) | 中等 | ✅ | 20/03/15 | 深度优先搜索 |
 | A0820 | [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ⚠️, ❌, 🤔, ✅ | 20/03/28 | Trie树 |
