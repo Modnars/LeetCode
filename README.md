@@ -39,6 +39,7 @@
 | A0022 | [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [cpp](./cpp/A0022/main.cpp) | 中等 | ❌, ⚠️, 🤔, ✅ | 20/04/09 | 回溯 |
 | A0023 | [合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](./cpp/A0023/main.cpp) | 困难 | 🐧, 🔥, 👨‍💻, ✅ | 20/02/21 |
 | A0024 | [两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/) | [cpp](./cpp/A0024/main.cpp) | 中等 | | 20/03/07 |
+| A0025 | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) | [cpp](./cpp/A0025/main.cpp) | 困难 | 🚧, ✅ | 20/05/16 |
 | A0026 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/) | [cpp](./cpp/A0026/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
 | A0027 | [移除元素](https://leetcode-cn.com/problems/remove-element/) | [cpp](./cpp/A0027/main.cpp) | 简单 | | 20/03/01 | 双指针法 |
 | A0028 | [实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [cpp](./cpp/A0028/main.cpp) | 简单 | 👨‍💻 | | 字符串匹配 |
@@ -96,6 +97,7 @@
 | A0200 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [cpp](./cpp/A0200/main.cpp) | 中等 | ❌, ⚠️, 🤔, ✅ | 20/04/20 | DFS/BFS/并查集 |
 | A0202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [cpp](./cpp/A0202/main.cpp) | 简单 | ✅ | 20/04/30 | 数学 |
 | A0206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [cpp](./cpp/A0206/main.cpp) | 简单 | ✅, 🐧, 🔥, 👨‍💻 | 20/02/25 | [C++迭代](https://leetcode-cn.com/problems/reverse-linked-list/solution/c-die-dai-by-modnars/) 递归&迭代 |
+| A0210 | [课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/) | [cpp](./cpp/A0210/main.cpp) | 中等 | 🚧, ✅ | 20/05/17 | |
 | A0215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [cpp](./cpp/A0215/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧, 👨‍💻 | 20/02/27 | |
 | A0217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | [cpp](./cpp/A0217/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 | |
 | A0221 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/) | [cpp](./cpp/A0221/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/05/08 | 动态规划 |
