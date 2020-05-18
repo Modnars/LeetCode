@@ -87,6 +87,7 @@
 | A0146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [cpp](./cpp/A0146/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧, 👨‍💻 | 20/02/28 | |
 | A0148 | [排序链表](https://leetcode-cn.com/problems/sort-list/) | [cpp](./cpp/A0148/main.cpp) | 中等 | 🤔, 🐧, 🔥, 🚧, 👨‍💻 | 20/02/28 | |
 | A0151 | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [cpp](./cpp/A0151/main.cpp) | 中等 | ✅, ⭐️ | 20/04/10 | |
+| A0152 | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) | [cpp](./cpp/A0152/main.cpp) | 中等 | 🚧, ✅ | 20/05/18 | |
 | A0153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array) | [cpp](./cpp/A0153/main.cpp) | 中等 | ⚠️, 🤔, ⭐️ | 20/03/14 | 二分 |
 | A0154 | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii) | [cpp](./cpp/A0154/main.cpp) | 困难 | ⚠️, 🤔, ⭐️ | 20/03/14 | 二分 |
 | A0155 | [最小栈](https://leetcode-cn.com/problems/min-stack/) | [cpp](./cpp/A0155/main.cpp) | 简单 | 🤔, 🐧, 🔥, 👨‍💻, ✅ | 20/02/25 | 辅助栈 |
