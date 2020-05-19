@@ -80,6 +80,7 @@
 | A0121 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [cpp](./cpp/A0121/main.cpp) | 简单 | ✅, 🐧, 🔥, 👨‍💻 | 20/02/25 | |
 | A0122 | [买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | [cpp](./cpp/A0122/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/25 | |
 | A0124 | [二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | [cpp](./cpp/A0124/main.cpp) | 困难 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/03/01 | |
+| A0125 | [验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) | [cpp](./cpp/A0125/main.cpp) | 简单 | | 20/05/19 | 双指针 |
 | A0136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [cpp](./cpp/A0136/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻, ✅ | 20/02/25 | 位异或运算 |
 | A0137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/) | [cpp](./cpp/A0137/main.cpp) | 中等 | 🤔, ⭐️ | 20/02/25 | 位运算 |
 | A0141 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [cpp](./cpp/A0141/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | 快慢指针 |
@@ -127,6 +128,7 @@
 | A0557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) | [cpp](./cpp/A0557/main.cpp) | 简单 | 🐧 | 20/02/23 |
 | A0560 | [和为K的数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [cpp](./cpp/A0560/main.cpp) | 中等 | 🚧, ⚠️, 🤔, ✅ | 20/05/15 | 前缀和 |
 | A0572 | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [cpp](./cpp/A0572/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/05/07 |
+| A0680 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [cpp](./cpp/A0680/main.cpp) | 简单 | 🤔, ✅ | 20/05/19 | 贪心 & 双指针 |
 | A0695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [cpp](./cpp/A0557/main.cpp) | 中等 | ✅ | 20/03/15 | 深度优先搜索 |
 | A0820 | [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ⚠️, ❌, 🤔, ✅ | 20/03/28 | Trie树 |
 | A0876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ✅ | 20/03/23 | 快慢指针 |
