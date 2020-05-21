@@ -20,7 +20,7 @@
 | A0002 | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/) | [cpp](./cpp/A0002/main.cpp) | 中等 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/20 |
 | A0003 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [cpp](./cpp/A0003/main.cpp) | 中等 | 🤔, 🔥, 👨‍💻, ✅ | 20/02/20 |
 | A0004 | [寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/comments/) | [cpp](./cpp/A0004/main.cpp) | 困难 | ⚠️, 🤔, 🐧, 🔥, 👨‍💻 | 20/02/25 | 切分法 |
-| A0005 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [cpp](./cpp/A0005/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/23 | 整数除法取整 |
+| A0005 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [cpp](./cpp/A0005/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻, ✅ | 20/02/23 | 整数除法取整 |
 | A0006 | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/) | [cpp](./cpp/A0006/main.cpp) | 中等 | 🤔 | 20/02/22 |
 | A0007 | [整数反转](https://leetcode-cn.com/problems/reverse-integer) | [cpp](./cpp/A0007/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/21 |
 | A0008 | [字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [cpp](./cpp/A0008/main.cpp) | 中等 | 🐧, 👨‍💻 | 20/03/03 | 整数溢出判断 |
