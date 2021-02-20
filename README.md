@@ -130,7 +130,7 @@
 | A0572 | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [cpp](./cpp/A0572/main.cpp) | 简单 | ⚠️, 🤔, ✅ | 20/05/07 |
 | A0680 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [cpp](./cpp/A0680/main.cpp) | 简单 | 🤔, ✅ | 20/05/19 | 贪心 & 双指针 |
 | A0695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/) | [cpp](./cpp/A0557/main.cpp) | 中等 | ✅ | 20/03/15 | 深度优先搜索 |
-| A0739 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [cpp](./cpp/A0739/main.cpp) | 中等 | ✅, 🚧 | 20/06/11 | |
+| A0739 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [cpp](./cpp/A0739/main.cpp) | 中等 | ✅, 🤔 | 20/06/11 | 暴力, 最小栈 |
 | A0820 | [单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ⚠️, ❌, 🤔, ✅ | 20/03/28 | Trie树 |
 | A0876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ✅ | 20/03/23 | 快慢指针 |
 | A0887 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/) | [cpp](./cpp/A0887/main.cpp) | 困难 | 🚧, ⚠️, 🤔, ✅ | 20/04/11 | |
