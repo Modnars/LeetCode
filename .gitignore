@@ -1,5 +1,15 @@
+# For C/C++
 *.out
+
+# For macOS
 *.dSYM
+
+# For Cmake
 Makefile
+
+# For VS-Code
+.vscode
+
+# For others
 explore/
 res/
