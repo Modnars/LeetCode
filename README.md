@@ -137,6 +137,7 @@
 | A0876 | [链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/) | [cpp](./cpp/A0876/main.cpp) | 简单 | ✅ | 20/03/23 | 快慢指针 |
 | A0887 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/) | [cpp](./cpp/A0887/main.cpp) | 困难 | 🚧, ⚠️, 🤔, ✅ | 20/04/11 | |
 | A0892 | [三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/) | [cpp](./cpp/A0892/main.cpp) | 简单 | 🤔, ⭐️, ✅ | 20/03/25 | [题解](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/solution/ji-suan-quan-bu-zhu-ti-mian-ji-zai-jian-qu-xiang-l/) |
+| A0896 | [单调数列](https://leetcode-cn.com/problems/monotonic-array/) | [cpp](./cpp/A0896/main.cpp) | 简单 | ✅ | 21/02/28 | |
 | A0912 | [排序数组](https://leetcode-cn.com/problems/sort-an-array/) | [cpp](./cpp/A0912/main.cpp) | 中等 | ⭐️, ✅ | 20/03/31 |
 | A0914 | [卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/) | [cpp](./cpp/A0914/main.cpp) | 简单 | ✅ | 20/03/27 |
 | A0945 | [使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/) | [cpp](./cpp/A0945/main.cpp) | 中等 | ✅ | 20/03/22 |

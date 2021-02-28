@@ -8,7 +8,7 @@ import os
 Output Example:
 // URL    : 
 // Author : Modnar
-// Date   : 2020/01/25
+// Date   : 2021/02/27
 
 ...
 
@@ -18,17 +18,17 @@ author = 'Modnar'                                   # Set the author's name.
 folder = str(os.getcwd())                           # Get the current folder.
 date = datetime.datetime.now().strftime("%Y/%m/%d") # Get current time.
 folder = folder.split('/')[-1]
-print('// URL    : ')
-print('// Author : %s' % author)
-print('// Date   : %s' % date)
-print()
-print('#include <bits/stdc++.h>')
-print()
-print('/* ************************* */')
-print()
-print()
-print('/* ************************* */')
-print()
-print('int main(int argc, const char *argv[]) {')
-print('    return EXIT_SUCCESS;')
-print('}')
+print(('// URL    : \n'
+       '// Author : ' + author + '\n'
+       '// Date   : ' + date + '\n'
+       '\n'
+       '#include <bits/stdc++.h>\n'
+       '\n'
+       '/* ************************* */\n'
+       '\n\n'
+       '/* ************************* */\n'
+       '\n'
+       'int main(int argc, char *const argv[]) {\n'
+       '    return EXIT_SUCCESS;\n'
+       '}\n'))
+
