@@ -116,6 +116,7 @@
 | A0289 | [生命游戏](https://leetcode-cn.com/problems/game-of-life/) | [cpp](./cpp/A0289/main.cpp) | 中等 | 🤔, ✅ | 20/04/02 | 添加复合状态 |
 | A0292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/) | [cpp](./cpp/A0292/main.cpp) | 简单 | | 20/02/23 |
 | A0300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [cpp](./cpp/A0300/main.cpp) | 中等 | 🤔, ✅ | 20/03/13 | 动态规划、贪心+二分 |
+| A0303 | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | [cpp](./cpp/A0303/main.cc) | 简单 | ✅ | 21/03/01 | |
 | A0319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/) | [cpp](./cpp/A0319/main.cpp) | 中等 | 🤔, ✅ | 20/03/11 | 思维 |
 | A0322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [cpp](./cpp/A0322/main.cpp) | 中等 | ⚠️, 🤔, ✅ | 20/03/08 | 动态规划 |
 | A0344 | [反转字符串](https://leetcode-cn.com/problems/reverse-string/) | [cpp](./cpp/A0344/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/23 |
