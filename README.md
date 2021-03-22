@@ -95,6 +95,7 @@
 | A0160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [cpp](./cpp/A0160/main.cpp) | 简单 | 🐧, 🔥, 👨‍💻 | 20/02/25 | 双指针求双链表公共结点 |
 | A0167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | [cpp](./cpp/A0167/main.cpp) | 简单 | | 20/02/20 |
 | A0169 | [多数元素](https://leetcode-cn.com/problems/majority-element/) | [cpp](./cpp/A0169/main.cpp) | 简单 | 🤔, 🐧, 🔥, 👨‍💻 | 20/02/25 | Boyer-Moore投票法 |
+| A0191 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) | [cpp](./cpp/A0191/main.cc) | 简单 | ✅ | 21/03/22 | |
 | A0199 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [cpp](./cpp/A0199/main.cpp) | 中等 | ⚠️, 🤔, 🚧 | 20/04/22 | |
 | A0200 | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [cpp](./cpp/A0200/main.cpp) | 中等 | ❌, ⚠️, 🤔, ✅ | 20/04/20 | DFS/BFS/并查集 |
 | A0202 | [快乐数](https://leetcode-cn.com/problems/happy-number/) | [cpp](./cpp/A0202/main.cpp) | 简单 | ✅ | 20/04/30 | 数学 |
