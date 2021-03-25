@@ -69,6 +69,7 @@
 | A0072 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/) | [cpp](./cpp/A0072/main.cpp) | 困难 | ✅ | 20/04/06 | 动态规划 |
 | A0073 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | [cpp](./cpp/A0073/main.cpp) | 中等 | ⚠️, 🤔, 👨‍💻 | 20/03/06 |
 | A0078 | [子集](https://leetcode-cn.com/problems/subsets/) | [cpp](./cpp/A0078/main.cpp) | 中等 | 🐧, 🔥, 👨‍💻 | 20/02/26 |
+| A0082 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/) | [cpp](./cpp/A0082/main.cc) | 中等 | ✅ | 21/03/25 |
 | A0088 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) | [cpp](./cpp/A0088/main.cpp) | 简单 | 🐧, 👨‍💻 | 20/02/22 |
 | A0089 | [格雷编码](https://leetcode-cn.com/problems/gray-code/) | [cpp](./cpp/A0089/main.cpp) | 中等 | 🤔, 🐧 | 20/02/24 | 格雷编码 |
 | A0094 | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [cpp](./cpp/A0094/main.cpp) | 中等 | 🤔, 👨‍💻 | 20/03/09 | 递归 & 迭代 |
