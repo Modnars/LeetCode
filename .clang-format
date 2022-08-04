@@ -27,4 +27,4 @@ IncludeBlocks: Preserve
 
 SpacesBeforeTrailingComments: 1
 AlignConsecutiveMacros: true
-AlignConsecutiveAssignments: true
+AlignConsecutiveAssignments: false
